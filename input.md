@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-03-06"
+lastupdated: "2020-06-22"
 
 subcollection: personality-insights
 
@@ -388,7 +388,38 @@ You can use the `Content-Language` and `Accept-Language` header parameters to in
   </tr>
 </table>
 
-Submit all text in the same language. Do not mix multiple languages in the same request. For two-character language arguments, the service treats regional variants as their parent language; for example, it interprets `en-US` as `en`.
+Be aware of the following usage note:
+
+-   Submit all input text in the same language. Do not mix multiple languages in the same input text for a request.
+-   For two-character language arguments, the service treats regional variants as their parent language; for example, it interprets `en-US` as `en`.
+
+### Examples of language specification
+{: languageExamples}
+
+The following example uses the `Content-Language` and `Accept-Language` headers to both send input and request output in Spanish:
+
+```bash
+curl -X POST -u "apikey:{apikey}"
+--header "Content-Type: text/plain;charset=utf-8"
+--header "Accept: application/json"
+--header "Content-Language: es"
+--header "Accept-Language: es"
+--data-binary @{filename}
+"{url}/v3/profile?version=2017-10-13"
+```
+{: pre}
+
+The following example omits the `Content-Language` header to pass input content in English (the default). It uses the `Accept-Language` header to request a response in Spanish:
+
+```bash
+curl -X POST -u "apikey:{apikey}"
+--header "Content-Type: text/plain;charset=utf-8"
+--header "Accept: application/json"
+--header "Accept-Language: es"
+--data-binary @{filename}
+"{url}/v3/profile?version=2017-10-13"
+```
+{: pre}
 
 ### Specifying a language for JSON content
 {: #languageJSON}
