@@ -155,10 +155,10 @@ To prevent errors when using the `curl` command, always pass the content via the
 For example, the following `curl` command correctly uses the `--data-binary` option to post the contents of the specified file with no additional processing. The command specifies the `charset` parameter with the `Content-Type` header, and it requests the JSON response format with the `Accept` header. Replace `{apikey}`, `{filename}`, and `{url}` with your API key, the name of your input file, and the URL of your service instance.
 
 ```bash
-curl -X POST -u "apikey:{apikey}"
---header "Content-Type: text/plain;charset=utf-8"
---header "Accept: application/json"
---data-binary @{filename}
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: text/plain;charset=utf-8" \
+--header "Accept: application/json" \
+--data-binary @{filename} \
 "{url}/v3/profile?version=2017-10-13"
 ```
 {: pre}
@@ -399,12 +399,12 @@ Be aware of the following usage note:
 The following example uses the `Content-Language` and `Accept-Language` headers to both send input and request output in Spanish:
 
 ```bash
-curl -X POST -u "apikey:{apikey}"
---header "Content-Type: text/plain;charset=utf-8"
---header "Accept: application/json"
---header "Content-Language: es"
---header "Accept-Language: es"
---data-binary @{filename}
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: text/plain;charset=utf-8" \
+--header "Accept: application/json" \
+--header "Content-Language: es" \
+--header "Accept-Language: es" \
+--data-binary @{filename} \
 "{url}/v3/profile?version=2017-10-13"
 ```
 {: pre}
@@ -412,11 +412,11 @@ curl -X POST -u "apikey:{apikey}"
 The following example omits the `Content-Language` header to pass input content in English (the default). It uses the `Accept-Language` header to request a response in Spanish:
 
 ```bash
-curl -X POST -u "apikey:{apikey}"
---header "Content-Type: text/plain;charset=utf-8"
---header "Accept: application/json"
---header "Accept-Language: es"
---data-binary @{filename}
+curl -X POST -u "apikey:{apikey}" \
+--header "Content-Type: text/plain;charset=utf-8" \
+--header "Accept: application/json" \
+--header "Accept-Language: es" \
+--data-binary @{filename} \
 "{url}/v3/profile?version=2017-10-13"
 ```
 {: pre}
