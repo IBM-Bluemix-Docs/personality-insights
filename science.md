@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-03-06"
+lastupdated: "2020-09-03"
 
 subcollection: personality-insights
 
@@ -341,7 +341,7 @@ The relationship between personality and purchasing behavior was studied across 
 
 -   [Chen (2007)](/docs/personality-insights?topic=personality-insights-references#chen2007), while testing preferences for organic foods, indicated that an individual's personality characteristics play an important role in establishing personal food-choice criteria.
 -   [Schlegelmilch and others (1996)](/docs/personality-insights?topic=personality-insights-references#schlegelmilch1996) explored the relationship between personality variables and pro-environmental purchasing behavior. The authors showed that consumers' overall environmental consciousness has a positive impact on green purchasing decisions.
--   [Hymbaugh and Garrett (2007)](/docs/personality-insights?topic=personality-insights-references#hymbaugh1974) investigated the relationship between personality and skydiving and found that people who score high in adventurousness and excitement-seeking generally indulge in skydiving. (For more information, see [Risk profiling](/docs/personality-insights?topic=personality-insights-applied#otherRisk).)
+-   [Hymbaugh and Garrett (2007)](/docs/personality-insights?topic=personality-insights-references#hymbaugh1974) investigated the relationship between personality and skydiving and found that people who score high in adventurousness and excitement-seeking generally indulge in skydiving. (For more information, see [Risk profiles](/docs/personality-insights?topic=personality-insights-applied#otherRisk).)
 
 Applying these known relations between consumption behaviors and personality is challenging. Most of the works used personality data derived from surveys, and their models are not publicly available. Therefore, {{site.data.keyword.IBM_notm}} decided to learn these consumption preference models directly. When it was training the models, {{site.data.keyword.IBM_notm}} used personality scores that were returned from the {{site.data.keyword.personalityinsightsshort}} service as features. As a result, when you apply these models to calculate a user's personality characteristics with the service, the predictions are likely to be more accurate.
 

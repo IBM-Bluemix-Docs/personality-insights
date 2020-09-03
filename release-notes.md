@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-03"
 
 subcollection: personality-insights
 
@@ -164,8 +164,7 @@ The migration to IAM authentication affects new and existing service instances d
 For more information, see the following documentation:
 
 -   To learn which authentication mechanism your service instance uses, view your service credentials by clicking the instance on the [{{site.data.keyword.cloud_notm}} dashboard](https://{DomainName}/resources){: external}.
--   For more information about using IAM tokens with Watson services, see [Authenticating with IAM tokens](/docs/watson?topic=watson-iam).
--   For more information about using IAM API keys with Watson services, see [IAM service API keys](/docs/watson?topic=watson-api-key-bp).
+-   For more information about using IAM API keys and tokens with Watson services, see [Authenticating to Watson services](/docs/watson?topic=watson-iam).
 -   For examples that use IAM authentication, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 ### 11 June 2018
