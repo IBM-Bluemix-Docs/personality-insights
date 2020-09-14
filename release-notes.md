@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-03"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -251,19 +251,19 @@ The service was updated with small security and defect fixes, and to improve met
 
     The service no longer returns the following nine consumption preferences:
 
-    -   The <code>consumption_preferences_shopping</code> category no longer includes
-        -   <code>consumption_preferences_automobile_resale_value</code>
-    -   The <code>consumption_preferences_reading</code> category no longer includes
-        -   <code>consumption_preferences_read_motive_enjoyment</code><br/>
-        -   <code>consumption_preferences_read_motive_information</code><br/>
-        -   <code>consumption_preferences_read_motive_mandatory</code><br/>
-        -   <code>consumption_preferences_read_motive_relaxation</code>
-    -   The <code>consumption_preferences_health_and_activity</code> category no longer includes
-        -   <code>consumption_preferences_adventurous_sports</code>
-        -   <code>consumption_preferences_fast_food_frequency</code>
-    -   The <code>consumption_preferences_volunteering</code> category no longer includes
-        -   <code>consumption_preferences_volunteering_time</code>
-        -   <code>consumption_preferences_volunteer_learning</code>
+    -   The `consumption_preferences_shopping` category no longer includes
+        -   `consumption_preferences_automobile_resale_value`
+    -   The `consumption_preferences_reading` category no longer includes
+        -   `consumption_preferences_read_motive_enjoyment`<br/>
+        -   `consumption_preferences_read_motive_information`<br/>
+        -   `consumption_preferences_read_motive_mandatory`<br/>
+        -   `consumption_preferences_read_motive_relaxation`
+    -   The `consumption_preferences_health_and_activity` category no longer includes
+        -   `consumption_preferences_adventurous_sports`
+        -   `consumption_preferences_fast_food_frequency`
+    -   The `consumption_preferences_volunteering` category no longer includes
+        -   `consumption_preferences_volunteering_time`
+        -   `consumption_preferences_volunteer_learning`
 
     For more information about the remaining preferences, see [Consumption preferences](/docs/personality-insights?topic=personality-insights-preferences).
 -   *For Arabic input*, information about the average Mean Absolute Error (MAE) and average correlation is now available in [Per-language average MAE and correlation](/docs/personality-insights?topic=personality-insights-science#precisePerLanguage). In addition, the service's models are unable to produce meaningful percentiles and raw scores for a collection of personality characteristics. For more information about the results for these characteristics, see [Limitations for Arabic and Korean input](/docs/personality-insights?topic=personality-insights-numeric#limitations).
@@ -311,7 +311,7 @@ This documentation now describes version 3 of the {{site.data.keyword.personalit
 -   For more information about the `/v3/profile` method's response, see [Understanding a JSON profile](/docs/personality-insights?topic=personality-insights-output) and [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV).
 -   For more information about the version 3 interface, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
-#### Changes to parameters of the <code>/v3/profile</code> method
+#### Changes to parameters of the `/v3/profile` method
 
 Parameters of the `/v3/profile` method changed:
 
@@ -416,7 +416,7 @@ The optional column headers that the service can return for CSV output changed:
 -   All characters are now lowercase.
 -   Spaces and hyphens are now underscores.
 
-#### Removal of the <code>visualize</code> method
+#### Removal of the `visualize` method
 
 Version 2 of the service's API included a deprecated `visualize` method that was used in an earlier release to visualize the results of a call to the `/v3/profile` method. The `visualize` method has been removed from the service's API. The service continues to provide a collection of JavaScript files that enable graphic visualization of a profile. For more information, see [Visualizing a profile](/docs/personality-insights?topic=personality-insights-overviewDevelopers#visualize).
 

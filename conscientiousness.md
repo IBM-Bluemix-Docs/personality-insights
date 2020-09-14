@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -38,41 +38,15 @@ For more information, see [Percentiles for personality characteristics](/docs/pe
 
 Brief descriptions of the dimension's facets and of individuals who score high in each facet.
 
-<table>
-  <caption>Table 1. Facets (conscientiousness)</caption>
-  <tr>
-    <th style="text-align:left">Facet</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Achievement striving / Driven</strong></td>
-    <td>Try hard to achieve excellence. Their drive to be recognized
-    as successful keeps them on track as they work hard to accomplish
-    their goals.</td>
-  </tr>
-  <tr>
-    <td><strong>Cautiousness / Deliberate / Deliberateness</strong></td>
-    <td>Are disposed to think through possibilities carefully before
-    acting.</td>
-  </tr>
-  <tr>
-    <td><strong>Dutifulness / Dutiful / Sense of responsibility</strong></td>
-    <td>Have a strong sense of duty and obligation.</td>
-  </tr>
-  <tr>
-    <td><strong>Orderliness / Organized</strong></td>
-    <td>Are well-organized, tidy, and neat.</td>
-  </tr>
-  <tr>
-    <td><strong>Self-discipline / Persistent</strong></td>
-    <td>Have the self-discipline, or "will-power," to persist at difficult
-    or unpleasant tasks until they are completed.</td>
-  </tr>
-  <tr>
-    <td><strong>Self-efficacy / Self-assured / Sense of competence</strong></td>
-    <td>Are confident in their ability to accomplish things.</td>
-  </tr>
-</table>
+| Facet | Individuals who score high... |
+|-------|-------------------------------|
+| **Achievement striving / Driven** | Try hard to achieve excellence. Their drive to be recognizedas successful keeps them on track as they work hard to accomplishtheir goals. |
+| **Cautiousness / Deliberate / Deliberateness** | Are disposed to think through possibilities carefully beforeacting. |
+| **Dutifulness / Dutiful / Sense of responsibility** | Have a strong sense of duty and obligation. |
+| **Orderliness / Organized** | Are well-organized, tidy, and neat. |
+| **Self-discipline / Persistent** | Have the self-discipline, or "will-power," to persist at difficultor unpleasant tasks until they are completed. |
+| **Self-efficacy / Self-assured / Sense of competence** | Are confident in their ability to accomplish things. |
+{: caption="Table 1. Facets (conscientiousness)"}
 
 ## Range of characteristics
 {: #range-consc}
@@ -116,7 +90,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Content
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Achievement-striving</strong>
+      **Achievement-striving**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Driven
@@ -134,7 +108,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Bold
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Cautiousness</strong>
+      **Cautiousness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Deliberate
@@ -151,7 +125,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Carefree
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Dutifulness</strong>
+      **Dutifulness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Dutiful
@@ -169,7 +143,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Unstructured
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Orderliness</strong>
+      **Orderliness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Organized
@@ -187,7 +161,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Intermittent
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Self-discipline</strong>
+      **Self-discipline**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Persistent
@@ -204,7 +178,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Self-doubting
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Self-efficacy</strong>
+      **Self-efficacy**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Self-assured
@@ -221,59 +195,14 @@ General descriptions that might apply to individuals whose scores evidence more 
 
 Information that relates the dimension to other dimensions, describing combinations of personality characteristics. Provides insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality.
 
-<table>
-  <caption>Table 3. Primary and secondary dimensions (conscientiousness)</caption>
-  <tr>
-    <th colspan="2" style="width:30%">Dimension</th>
-    <th style="width:35%">High conscientiousness</th>
-    <th style="width:35%">Low conscientiousness</th>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Agreeableness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Dependable, responsible, reliable, mannerly, considerate</td>
-    <td>Unpretentious, self-effacing</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Stern, strict, rigid</td>
-    <td>Rash, uncooperative, unreliable, distrustful, thoughtless</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Extraversion</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Ambitious, alert, firm, purposeful, competitive</td>
-    <td>Unruly, boisterous, reckless, devil-may-care, demonstrative</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Cautious, confident, punctual, formal, thrifty</td>
-    <td>Indecisive, aimless, wishy-washy, noncommittal, unambitious</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Emotional range</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Particular, high-strung</td>
-    <td>Scatterbrained, inconsistent, erratic, forgetful, impulsive</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Thorough, steady, consistent, self-disciplined, logical</td>
-    <td>Informal, low-key</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Openness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Sophisticated, perfectionistic, industrious, dignified, refined</td>
-    <td>Unconventional, quirky</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Traditional, conventional</td>
-    <td>Foolhardy, illogical, immature, haphazard, lax</td>
-  </tr>
-</table>
+| Dimension | Score | High conscientiousness | Low conscientiousness |
+|-----------|:-----:|------------------------|-----------------------|
+| **Agreeableness** | *High* | Dependable, responsible, reliable, mannerly, considerate | Unpretentious, self-effacing |
+|  | *Low* | Stern, strict, rigid | Rash, uncooperative, unreliable, distrustful, thoughtless |
+| **Extraversion** | *High* | Ambitious, alert, firm, purposeful, competitive | Unruly, boisterous, reckless, devil-may-care, demonstrative |
+|  | *Low* | Cautious, confident, punctual, formal, thrifty | Indecisive, aimless, wishy-washy, noncommittal, unambitious |
+| **Emotional range** | *High* | Particular, high-strung | Scatterbrained, inconsistent, erratic, forgetful, impulsive |
+|  | *Low* | Thorough, steady, consistent, self-disciplined, logical | Informal, low-key |
+| **Openness** | *High* | Sophisticated, perfectionistic, industrious, dignified, refined | Unconventional, quirky |
+|  | *Low* | Traditional, conventional | Foolhardy, illogical, immature, haphazard, lax |
+{: caption="Table 3. Primary and secondary dimensions (conscientiousness)"}

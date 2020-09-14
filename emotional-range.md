@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -38,45 +38,15 @@ For more information, see [Percentiles for personality characteristics](/docs/pe
 
 Brief descriptions of the dimension's facets and of individuals who score high in each facet.
 
-<table>
-  <caption>Table 1. Facets (emotional range)</caption>
-  <tr>
-    <th style="text-align:left">Facet</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Anger / Fiery</strong></td>
-    <td>Have a tendency to feel angry.</td>
-  </tr>
-  <tr>
-    <td><strong>Anxiety / Prone to worry</strong></td>
-    <td>Often feel like something unpleasant, threatening, or dangerous is
-    about to happen. The "fight-or-flight" system of their brains is too
-    easily and too often engaged.</td>
-  </tr>
-  <tr>
-    <td><strong>Depression / Melancholy / Moodiness</strong></td>
-    <td>Tend to react more readily to life's ups and downs.</td>
-  </tr>
-  <tr>
-    <td><strong>Immoderation / Self-indulgence</strong></td>
-    <td>Feel strong cravings and urges that they have difficulty resisting,
-    even though they know that they are likely to regret them later. They tend
-    to be oriented toward short-term pleasures and rewards rather than long-term
-    consequences.</td>
-  </tr>
-  <tr>
-    <td><strong>Self-consciousness</strong></td>
-    <td>Are sensitive about what others think of them. Their concerns about
-    rejection and ridicule cause them to feel shy and uncomfortable around
-    others; they are easily embarrassed.</td>
-  </tr>
-  <tr>
-    <td><strong>Vulnerability / Susceptible to stress / Sensitivity to stress</strong></td>
-    <td>Have difficulty coping with stress. They experience panic, confusion,
-    and helplessness when under pressure or when facing emergency situations.</td>
-  </tr>
-</table>
+| Facet | Individuals who score high... |
+|-------|-------------------------------|
+| **Anger / Fiery** | Have a tendency to feel angry. |
+| **Anxiety / Prone to worry** | Often feel like something unpleasant, threatening, or dangerous isabout to happen. The "fight-or-flight" system of their brains is tooeasily and too often engaged. |
+| **Depression / Melancholy / Moodiness** | Tend to react more readily to life's ups and downs. |
+| **Immoderation / Self-indulgence** | Feel strong cravings and urges that they have difficulty resisting,even though they know that they are likely to regret them later. They tendto be oriented toward short-term pleasures and rewards rather than long-termconsequences. |
+| **Self-consciousness** | Are sensitive about what others think of them. Their concerns aboutrejection and ridicule cause them to feel shy and uncomfortable aroundothers; they are easily embarrassed. |
+| **Vulnerability / Susceptible to stress / Sensitivity to stress** | Have difficulty coping with stress. They experience panic, confusion,and helplessness when under pressure or when facing emergency situations. |
+{: caption="Table 1. Facets (emotional range)"}
 
 ## Range of characteristics
 {: #range-emote}
@@ -119,7 +89,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Mild-tempered
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Anger</strong>
+      **Anger**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Fiery
@@ -136,7 +106,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Self-assured
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Anxiety</strong>
+      **Anxiety**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Prone to worry
@@ -153,7 +123,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Content
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Depression</strong>
+      **Depression**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Melancholy
@@ -170,7 +140,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Self-controlled
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Immoderation</strong>
+      **Immoderation**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Hedonistic
@@ -187,7 +157,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Confident
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Self-consciousness</strong>
+      **Self-consciousness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Self-conscious
@@ -204,7 +174,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Calm under pressure
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Vulnerability</strong>
+      **Vulnerability**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Susceptible to stress
@@ -220,59 +190,14 @@ General descriptions that might apply to individuals whose scores evidence more 
 
 Information that relates the dimension to other dimensions, describing combinations of personality characteristics. Provides insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality.
 
-<table>
-  <caption>Table 3. Primary and secondary dimensions (emotional range)</caption>
-  <tr>
-    <th colspan="2" style="width:30%">Dimension</th>
-    <th style="width:35%">High emotional range</th>
-    <th style="width:35%">Low emotional range</th>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Agreeableness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Emotional, gullible, affectionate, sensitive, soft</td>
-    <td>Patient, relaxed, undemanding, down-to-earth</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Temperamental, irritable, quarrelsome, impatient, grumpy</td>
-    <td>Unemotional, insensitive, unaffectionate, passionless</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Conscientiousness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Particular, high-strung</td>
-    <td>Rational, objective, steady, logical, decisive</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Compulsive, nosy, self-indulgent, forgetful, impulsive</td>
-    <td>Informal, low-key</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Extraversion</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Excitable, wordy, flirtatious, explosive, extravagant</td>
-    <td>Unself-conscious, weariless, indefatigible</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Guarded, fretful, insecure, pessimistic, secretive</td>
-    <td>Unassuming, unexcitable, placid, tranquil</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Openness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Excitable, passionate, sensual</td>
-    <td>Heartfelt, versatile, creative, intellectual, insightful</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Easily rattled, easily irked, apprehensive</td>
-    <td>Imperturbable, insensitive</td>
-  </tr>
-</table>
+| Dimension | Score | High emotional range | Low emotional range |
+|-----------|:-----:|----------------------|---------------------|
+| **Agreeableness** | *High* | Emotional, gullible, affectionate, sensitive, soft | Patient, relaxed, undemanding, down-to-earth |
+|  | *Low* | Temperamental, irritable, quarrelsome, impatient, grumpy | Unemotional, insensitive, unaffectionate, passionless |
+| **Conscientiousness** | *High* | Particular, high-strung | Rational, objective, steady, logical, decisive |
+|  | *Low* | Compulsive, nosy, self-indulgent, forgetful, impulsive | Informal, low-key |
+| **Extraversion** | *High* | Excitable, wordy, flirtatious, explosive, extravagant | Unself-conscious, weariless, indefatigible |
+|  | *Low* | Guarded, fretful, insecure, pessimistic, secretive | Unassuming, unexcitable, placid, tranquil |
+| **Openness** | *High* | Excitable, passionate, sensual | Heartfelt, versatile, creative, intellectual, insightful |
+|  | *Low* | Easily rattled, easily irked, apprehensive | Imperturbable, insensitive |
+{: caption="Table 3. Primary and secondary dimensions (emotional range)"}

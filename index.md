@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-03-06"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -74,39 +74,10 @@ For more information about how you can benefit from the service, see [Use cases]
 
 The service supports the following languages. You can use any combination of supported languages for the request and response, but all input text must be in the same language. For more information, see [Specifying request and response languages](/docs/personality-insights?topic=personality-insights-input#languages-input).
 
-<table style="width:75%">
-  <caption>Table 1. Supported languages</caption>
-  <tr>
-    <th style="width:50%; text-align:center">
-      Request languages
-    </th>
-    <th style="width:50%; text-align:center">
-      Response languages
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:top">
-      Arabic<br/>
-      English<br/>
-      Japanese<br/>
-      Korean<br/>
-      Spanish
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Arabic<br/>
-      English<br/>
-      Japanese<br/>
-      Korean<br/>
-      Spanish<br/>
-      Brazilian Portuguese<br/>
-      French<br/>
-      German<br/>
-      Italian<br/>
-      Simplified Chinese<br/>
-      Traditional Chinese
-    </td>
-  </tr>
-</table>
+| Request languages | Response languages |
+|:-----------------:|:------------------:|
+| Arabic<br/>English<br/>Japanese<br/>Korean<br/>Spanish | Arabic<br/>English<br/>Japanese<br/>Korean<br/>Spanish<br/>Brazilian Portuguese<br/>French<br/>German<br/>Italian<br/>Simplified Chinese<br/>Traditional Chinese |
+{: caption="Table 1. Supported languages"}
 
 ## HIPAA
 {: hipaa}

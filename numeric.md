@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-03-06"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -90,71 +90,9 @@ For a complete list of all preferences by category and the range of their result
 
 For Arabic and Korean input, the service's models are unable to produce meaningful results for a subset of personality characteristics. For the following characteristics, normalized percentile scores are always `0.5` and raw scores are always the mean of the original distribution. The `significant` field for each of these characteristics is always `false`. Do *not* rely on the results for these characteristics as part of the personality profile of the author.
 
-<table>
-  <caption>Table 1. Characteristics whose results are not significant</caption>
-  <tr>
-    <th style="text-align:left; vertical-align:bottom">
-      Characteristics
-    </th>
-    <th style="text-align:left; vertical-align:bottom; width:40%">
-      Arabic results that<br/>are not meaningful
-    </th>
-    <th style="text-align:left; vertical-align:bottom; width:40%">
-      Korean results that<br/>are not meaningful
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      Big Five facets
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      <ul style="margin:0px 0px 0px 15px; padding:0px">
-        <li style="margin:0px; line-height:110%; padding:0px">
-          *Agreeableness*: Altruism, Cooperation, Modesty, and Trust
-        </li>
-        <li style="margin:10px 0px 0px 0px; line-height:110%; padding:0px">
-          *Conscientiousness*: Achievement striving and Dutifulness
-        </li>
-        <li style="margin:10px 0px 0px 0px; line-height:110%; padding:0px">
-          *Extraversion*: Cheerfulness and Friendliness (Outgoing)
-        </li>
-        <li style="margin:10px 0px 0px 0px; line-height:110%; padding:0px">
-          *Emotional range*: Anger (Fiery), Prone to worry, Immoderation,
-          and Self-consciousness
-        </li>
-        <li style="margin:10px 0px 0px 0px; line-height:110%; padding:0px">
-          *Openness*: Adventurousness, Imagination, and Intellect
-        </li>
-      </ul>
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      <ul style="margin:0px 0px 0px 15px; padding:0px">
-        <li style="margin:0px; padding:0px">
-          *Extraversion*: Excitement-seeking
-        </li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      Needs
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      Ideal, Liberty, Love, Practicality, and Structure
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      Liberty and Stability
-    </td>
-  </tr>
-  </tr>
-    <td style="text-align:left; vertical-align:top">
-      Values
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      Self-enhancement
-    </td>
-    <td style="text-align:left; vertical-align:top">
-      Conservation
-    </td>
-  </tr>
-</table>
+| <bnr/>Characteristics | Arabic results that<br/>are not meaningful | Korean results that<br/>are not meaningful |
+|-----------------------|--------------------------------------------|--------------------------------------------|
+| Big Five facets | *Agreeableness*: Altruism, Cooperation, Modesty, and Trust<br/>*Conscientiousness*: Achievement striving and Dutifulness<br/>*Extraversion*: Cheerfulness and Friendliness (Outgoing)<br/>*Emotional range*: Anger (Fiery), Prone to worry, Immoderation, and Self-consciousness<br/>*Openness*: Adventurousness, Imagination, and Intellect | *Extraversion*: Excitement-seeking |
+| Needs | Ideal, Liberty, Love, Practicality, and Structure | Liberty and Stability |
+| Values | Self-enhancement | Conservation |
+{: caption="Table 1. Characteristics whose results are not significant"}

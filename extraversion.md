@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -38,42 +38,15 @@ For more information, see [Percentiles for personality characteristics](/docs/pe
 
 Brief descriptions of the dimension's facets and of individuals who score high in each facet.
 
-<table>
-  <caption>Table 1. Facets (extraversion)</caption>
-  <tr>
-    <th style="text-align:left">Facet</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Activity level / Energetic</strong></td>
-    <td>Lead fast-paced and busy lives. They do things and move about quickly,
-    energetically, and vigorously, and they are involved in many activities.</td>
-  </tr>
-  <tr>
-    <td><strong>Assertiveness / Assertive</strong></td>
-    <td>Like to take charge and direct the activities of others. They tend to be
-    leaders in groups.</td>
-  </tr>
-  <tr>
-    <td><strong>Cheerfulness / Cheerful / Positive emotions</strong></td>
-    <td>Experience a range of positive feelings, including happiness, enthusiasm,
-    optimism, and joy.</td>
-  </tr>
-  <tr>
-    <td><strong>Excitement-seeking</strong></td>
-    <td>Are easily bored without high levels of stimulation.</td>
-  </tr>
-  <tr>
-    <td><strong>Friendliness / Outgoing / Warmth</strong></td>
-    <td>Genuinely like other people and openly demonstrate positive feelings
-    toward others.</td>
-  </tr>
-  <tr>
-    <td><strong>Gregariousness / Sociable</strong></td>
-    <td>Find the company of others pleasantly stimulating and rewarding.
-    They enjoy the excitement of crowds.</td>
-  </tr>
-</table>
+| Facet | Individuals who score high... |
+|-------|-------------------------------|
+| **Activity level / Energetic** | Lead fast-paced and busy lives. They do things and move about quickly,energetically, and vigorously, and they are involved in many activities. |
+| **Assertiveness / Assertive** | Like to take charge and direct the activities of others. They tend to beleaders in groups. |
+| **Cheerfulness / Cheerful / Positive emotions** | Experience a range of positive feelings, including happiness, enthusiasm,optimism, and joy. |
+| **Excitement-seeking** | Are easily bored without high levels of stimulation. |
+| **Friendliness / Outgoing / Warmth** | Genuinely like other people and openly demonstrate positive feelingstoward others. |
+| **Gregariousness / Sociable** | Find the company of others pleasantly stimulating and rewarding.They enjoy the excitement of crowds. |
+{: caption="Table 1. Facets (extraversion)"}
 
 ## Range of characteristics
 {: #range-extra}
@@ -116,7 +89,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Laid-back
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Activity level</strong>
+      **Activity level**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Energetic
@@ -133,7 +106,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Demure
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Assertiveness</strong>
+      **Assertiveness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Assertive
@@ -151,7 +124,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Solemn
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Cheerfulness</strong>
+      **Cheerfulness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Cheerful
@@ -168,7 +141,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Calm-seeking
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Excitement-seeking</strong>
+      **Excitement-seeking**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Excitement-seeking
@@ -186,7 +159,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Reserved
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Friendliness</strong>
+      **Friendliness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Outgoing
@@ -203,7 +176,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Independent
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Gregariousness</strong>
+      **Gregariousness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Sociable
@@ -219,59 +192,14 @@ General descriptions that might apply to individuals whose scores evidence more 
 
 Information that relates the dimension to other dimensions, describing combinations of personality characteristics. Provides insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality.
 
-<table>
-  <caption>Table 3. Primary and secondary dimensions (extraversion)</caption>
-  <tr>
-    <th colspan="2" style="width:30%">Dimension</th>
-    <th style="width:35%">High extraversion</th>
-    <th style="width:35%">Low extraversion</th>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Agreeableness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Social, energetic, enthusiastic, communicative, vibrant</td>
-    <td>Unaggressive, humble, submissive, timid, compliant</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Opinionated, forceful, domineering, boastful, bossy</td>
-    <td>Skeptical, wary of others, seclusive, uncommunicative, unsociable</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Conscientiousness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Active, competitive, persistent, ambitious, purposeful</td>
-    <td>Restrained, serious, discreet, cautious, principled</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Boisterous, mischievous, exhibitionistic, gregarious, demonstrative</td>
-    <td>Indirect, unenergetic, sluggish, non-persistent, vague</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Emotional range</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Explosive, wordy, extravagant, volatile, flirtatious</td>
-    <td>Guarded, pessimistic, secretive, cowardly</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Confident, bold, assured, uninhibited, courageous</td>
-    <td>Tranquil, sedate, placid, impartial, unassuming</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Openness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Expressive, candid, dramatic, spontaneous, witty</td>
-    <td>Inner-directed, introspective, meditative, contemplating, self-examining</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Verbose, unscrupulous, pompous</td>
-    <td>Somber, meek, unadventurous, passive, apathetic</td>
-  </tr>
-</table>
+| Dimension | Score | High extraversion | Low extraversion |
+|-----------|:-----:|-------------------|------------------|
+| **Agreeableness** | *High* | Social, energetic, enthusiastic, communicative, vibrant | Unaggressive, humble, submissive, timid, compliant |
+|  | *Low* | Opinionated, forceful, domineering, boastful, bossy | Skeptical, wary of others, seclusive, uncommunicative, unsociable |
+| **Conscientiousness** | *High* | Active, competitive, persistent, ambitious, purposeful | Restrained, serious, discreet, cautious, principled |
+|  | *Low* | Boisterous, mischievous, exhibitionistic, gregarious, demonstrative | Indirect, unenergetic, sluggish, non-persistent, vague |
+| **Emotional range** | *High* | Explosive, wordy, extravagant, volatile, flirtatious | Guarded, pessimistic, secretive, cowardly |
+|  | *Low* | Confident, bold, assured, uninhibited, courageous | Tranquil, sedate, placid, impartial, unassuming |
+| **Openness** | *High* | Expressive, candid, dramatic, spontaneous, witty | Inner-directed, introspective, meditative, contemplating, self-examining |
+|  | *Low* | Verbose, unscrupulous, pompous | Somber, meek, unadventurous, passive, apathetic |
+{: caption="Table 3. Primary and secondary dimensions (extraversion)"}

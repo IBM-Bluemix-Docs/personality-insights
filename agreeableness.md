@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -38,44 +38,15 @@ For more information, see [Percentiles for personality characteristics](/docs/pe
 
 Brief descriptions of the dimension's facets and of individuals who score high in each facet.
 
-<table>
-  <caption>Table 1. Facets (agreeableness)</caption>
-  <tr>
-    <th style="text-align:left">Facet</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Altruism / Altruistic</strong></td>
-    <td>Find that helping others is genuinely rewarding, that doing
-    things for others is a form of self-fulfillment rather than
-    self-sacrifice.</td>
-  </tr>
-  <tr>
-    <td><strong>Cooperation / Accommodating / Compliance</strong></td>
-    <td>Dislike confrontation. They are perfectly willing to compromise
-    or to deny their own needs to get along with others.</td>
-  </tr>
-  <tr>
-    <td><strong>Modesty / Modest</strong></td>
-    <td>Are unassuming, rather self-effacing, and humble. However, they
-    do not necessarily lack self-confidence or self-esteem.</td>
-  </tr>
-  <tr>
-    <td><strong>Morality / Uncompromising / Sincerity</strong></td>
-    <td>See no need for pretense or manipulation when dealing with
-    others and are therefore candid, frank, and genuine.</td>
-  </tr>
-  <tr>
-    <td><strong>Sympathy / Empathetic</strong></td>
-    <td>Are tender-hearted and compassionate.</td>
-  </tr>
-  <tr>
-    <td><strong>Trust / Trusting of others</strong></td>
-    <td>Assume that most people are fundamentally fair, honest, and
-    have good intentions. They take people at face value and are willing
-    to forgive and forget.</td>
-  </tr>
-</table>
+| Facet | Individuals who score high... |
+|-------|-------------------------------|
+| **Altruism / Altruistic** | Find that helping others is genuinely rewarding, that doingthings for others is a form of self-fulfillment rather thanself-sacrifice. |
+| **Cooperation / Accommodating / Compliance** | Dislike confrontation. They are perfectly willing to compromiseor to deny their own needs to get along with others. |
+| **Modesty / Modest** | Are unassuming, rather self-effacing, and humble. However, theydo not necessarily lack self-confidence or self-esteem. |
+| **Morality / Uncompromising / Sincerity** | See no need for pretense or manipulation when dealing withothers and are therefore candid, frank, and genuine. |
+| **Sympathy / Empathetic** | Are tender-hearted and compassionate. |
+| **Trust / Trusting of others** | Assume that most people are fundamentally fair, honest, andhave good intentions. They take people at face value and are willingto forgive and forget. |
+{: caption="Table 1. Facets (agreeableness)"}
 
 ## Range of characteristics
 {: #range-agree}
@@ -119,7 +90,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Self-focused
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Altruism</strong>
+      **Altruism**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Altruistic
@@ -136,7 +107,7 @@ General descriptions that might apply to individuals whose scores evidence more 
     <td headers="lowValue lowTerm" style="text-align:center">
       Contrary</td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Cooperation</strong>
+      **Cooperation**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Accommodating
@@ -153,7 +124,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Proud
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Modesty</strong>
+      **Modesty**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Modest
@@ -170,7 +141,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Compromising
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Morality</strong>
+      **Morality**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Uncompromising
@@ -188,7 +159,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Hard-hearted
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Sympathy</strong>
+      **Sympathy**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Empathetic
@@ -205,7 +176,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Cautious of others
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Trust</strong>
+      **Trust**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Trusting of others
@@ -221,59 +192,14 @@ General descriptions that might apply to individuals whose scores evidence more 
 
 Information that relates the dimension to other dimensions, describing combinations of personality characteristics. Provides insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality.
 
-<table>
-  <caption>Table 3. Primary and secondary dimensions (agreeableness)</caption>
-  <tr>
-    <th colspan="2" style="width:30%">Dimension</th>
-    <th style="width:35%">High agreeableness</th>
-    <th style="width:35%">Low agreeableness</th>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Conscientiousness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Helpful, cooperative, considerate, respectful, polite</td>
-    <td>Strict, rigid, stern</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Unpretentious, self-effacing</td>
-    <td>Inconsiderate, impolite, distrustful, uncooperative, thoughtless</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Extraversion</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Effervescent, happy, friendly, merry, jovial</td>
-    <td>Bullheaded, abrupt, crude, combative, rough</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Soft-hearted, agreeable, obliging, humble, lenient</td>
-    <td>Cynical, wary of others, reclusive, detached, impersonal</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Emotional range</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Sentimental, affectionate, sensitive, soft, passionate</td>
-    <td>Critical, selfish, ill-tempered, antagonistic, grumpy</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Generous, pleasant, tolerant, peaceful, flexible</td>
-    <td>Insensitive, unaffectionate, passionless, unemotional</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Openness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Genial, tactful, diplomatic, deep, idealistic</td>
-    <td>Shrewd, eccentric, individualistic</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Dependent, simple</td>
-    <td>Coarse, tactless, curt, narrow-minded, callous</td>
-  </tr>
-</table>
+| Dimension | Score | High agreeableness | Low agreeableness |
+|-----------|:-----:|--------------------|-------------------|
+| **Conscientiousness** | *High* | Helpful, cooperative, considerate, respectful, polite | Strict, rigid, stern |
+|  | *Low* | Unpretentious, self-effacing | Inconsiderate, impolite, distrustful, uncooperative, thoughtless |
+| **Extraversion** | *High* | Effervescent, happy, friendly, merry, jovial | Bullheaded, abrupt, crude, combative, rough |
+|  | *Low* | Soft-hearted, agreeable, obliging, humble, lenient | Cynical, wary of others, reclusive, detached, impersonal |
+| **Emotional range** | *High* | Sentimental, affectionate, sensitive, soft, passionate | Critical, selfish, ill-tempered, antagonistic, grumpy |
+|  | *Low* | Generous, pleasant, tolerant, peaceful, flexible | Insensitive, unaffectionate, passionless, unemotional |
+| **Openness** | *High* | Genial, tactful, diplomatic, deep, idealistic | Shrewd, eccentric, individualistic |
+|  | *Low* | Dependent, simple | Coarse, tactless, curt, narrow-minded, callous |
+{: caption="Table 3. Primary and secondary dimensions (agreeableness)"}

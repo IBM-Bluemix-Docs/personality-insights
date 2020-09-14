@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-04"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -42,91 +42,13 @@ Request logging is disabled for the {{site.data.keyword.personalityinsightsshort
 
 You use the `Content-Type` and `Accept` header parameters to indicate the format of the content that you are passing to the method and the format of the service's response. You can use any combination of supported formats for the request and response.
 
-<table>
-  <caption>Table 1. Specifying request and response formats</caption>
-  <tr>
-    <th style="width:10%; text-align:left; vertical-align:bottom">
-      Format
-    </th>
-    <th style="width:26%; text-align:center; vertical-align:bottom">
-      Argument
-    </th>
-    <th style="width:32%; text-align:center; vertical-align:bottom">
-      Supported by<br/>
-      <code>Content-Type</code>
-    </th>
-    <th style="width:32%; text-align:center; vertical-align:bottom">
-      Supported by<br/>
-      <code>Accept</code>
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      Plain text
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      <code>text/plain</code>
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Yes (default)<br/><br/>
-      The service processes plain text without modification.
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      No
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      HTML
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      <code>text/html</code>
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Yes<br/><br/>
-      The service strips tags from the content before it processes the text.
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      No
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      JSON
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      <code>application/json</code>
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Yes<br/><br/>
-      Content must conform to the model defined by the
-      <code>Content</code> object, which is an array
-      of <code>ContentItem</code> objects.
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Yes<br/><br/>
-      The service returns its results as a <code>Profile</code>
-      object.
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left; vertical-align:top">
-      CSV
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      <code>text/csv</code>
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      No
-    </td>
-    <td style="text-align:center; vertical-align:top">
-      Yes<br/><br/>
-      By default, the service returns a single row of numeric results.
-      Set the optional <code>csv_headers</code> query parameter to
-      <code>true</code> to request headers for each column of the output.
-    </td>
-  </tr>
-</table>
+| <br/>Format | <br/>Argument | Supported by<br/>`Content-Type` | Supported by<br/>`Accept` |
+|--------|:--------:|:------------------------------------------:|:------------------------------------:|
+| Plain text | `text/plain` | Yes (default)<br/><br/>The service processes plain text without modification. | No |
+| HTML | `text/html` | Yes<br/><br/>The service strips tags from the content before it processes the text. | No |
+| JSON | `application/json` | Yes<br/><br/>Content must conform to the model defined by the`Content` object, which is an arrayof `ContentItem` objects. | Yes<br/><br/>The service returns its results as a `Profile`object. |
+| CSV | `text/csv` | No | Yes<br/><br/>By default, the service returns a single row of numeric results.Set the optional `csv_headers` query parameter to`true` to request headers for each column of the output. |
+{: caption="Table 1. Specifying request and response formats"}
 
 ### Specifying the character set
 {: #charset}
@@ -214,179 +136,20 @@ Examples in the [Getting started tutorial](/docs/personality-insights?topic=pers
 
 You can use the `Content-Language` and `Accept-Language` header parameters to indicate the language of the input content and the language of the service's response. You can use any combination of supported languages for the request and response. If you do not indicate a language, the service uses its English-trained models for its analysis and English for its results. The following table lists the supported input and output languages and identifies the arguments that you use with the language-related parameters.
 
-<table style="width:90%">
-  <caption>Table 2. Specifying request and response languages</caption>
-  <tr>
-    <th style="width:28%; text-align:left; vertical-align:bottom">
-      Language
-    </th>
-    <th style="width:12%; text-align:center; vertical-align:bottom">
-      Argument
-    </th>
-    <th style="width:30%; text-align:center; vertical-align:bottom">
-      Supported by<br/>
-      <code>Content-Language</code>
-    </th>
-    <th style="width:30%; text-align:center; vertical-align:bottom">
-      Supported by<br/>
-      <code>Accept-Language</code>
-    </th>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Arabic
-    </td>
-    <td style="text-align:center">
-      <code>ar</code>
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Brazilian Portuguese
-    </td>
-    <td style="text-align:center">
-      <code>pt-br</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      English
-    </td>
-    <td style="text-align:center">
-      <code>en</code>
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      French
-    </td>
-    <td style="text-align:center">
-      <code>fr</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      German
-    </td>
-    <td style="text-align:center">
-      <code>de</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Italian
-    </td>
-    <td style="text-align:center">
-      <code>it</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Japanese
-    </td>
-    <td style="text-align:center">
-      <code>ja</code>
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Korean
-    </td>
-    <td style="text-align:center">
-      <code>ko</code>
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Simplified Chinese
-    </td>
-    <td style="text-align:center">
-      <code>zh-cn</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Spanish
-    </td>
-    <td style="text-align:center">
-      <code>es</code>
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:left">
-      Traditional Chinese
-    </td>
-    <td style="text-align:center">
-      <code>zh-tw</code>
-    </td>
-    <td style="text-align:center">
-      No
-    </td>
-    <td style="text-align:center">
-      Yes
-    </td>
-  </tr>
-</table>
+| <br/>Language | <br/>Argument | Supported by<br/>`Content-Language` | Supported by<br/>`Accept-Language` |
+|----------|:--------:|:----------------------------------------------:|:---------------------------------------------:|
+| Arabic | `ar` | Yes | Yes |
+| Brazilian Portuguese | `pt-br` | No | Yes |
+| English | `en` | Yes | Yes |
+| French | `fr` | No | Yes |
+| German | `de` | No | Yes |
+| Italian | `it` | No | Yes |
+| Japanese | `ja` | Yes | Yes |
+| Korean | `ko` | Yes | Yes |
+| Simplified Chinese | `zh-cn` | No | Yes |
+| Spanish | `es` | Yes | Yes |
+| Traditional Chinese | `zh-tw` | No | Yes |
+{: caption="Table 2. Specifying request and response languages"}
 
 Be aware of the following usage note:
 
@@ -465,41 +228,14 @@ The following table reports two values for different quantities of input text:
 
 The information is based on English-language data, but the general guidelines apply to all languages. For more information about average MAE and correlation, including language-specific statistics, see [How precise is the service](/docs/personality-insights?topic=personality-insights-science#researchPrecise).
 
-<table style="width:80%">
-  <caption>Table 3. Average MAE and correlation</caption>
-  <tr>
-    <th style="text-align:center; vertical-align:bottom; width:24%">Number of words</th>
-    <th style="text-align:center; width:38%">Average MAE<br/>across all
-      characteristics</th>
-    <th style="text-align:center; width:38%">Average correlation<br/>across
-      all characteristics</th>
-  </tr>
-  <tr>
-    <td style="text-align:center">3000</td>
-    <td style="text-align:center">12.1%</td>
-    <td style="text-align:center">0.257</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">1200</td>
-    <td style="text-align:center">12.2%</td>
-    <td style="text-align:center">0.237</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">600</td>
-    <td style="text-align:center">12.3%</td>
-    <td style="text-align:center">0.212</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">300</td>
-    <td style="text-align:center">12.5%</td>
-    <td style="text-align:center">0.175</td>
-  </tr>
-  <tr>
-    <td style="text-align:center">100</td>
-    <td style="text-align:center">12.7%</td>
-    <td style="text-align:center">0.095</td>
-  </tr>
-</table>
+| <br/>Number of words | Average MAE<br/>across allcharacteristics | Average correlation<br/>acrossall characteristics |
+|:---------------:|:-----------------------------------------:|:-------------------------------------------------:|
+| 3000 | 12.1% | 0.257 |
+| 1200 | 12.2% | 0.237 |
+| 600 | 12.3% | 0.212 |
+| 300 | 12.5% | 0.175 |
+| 100 | 12.7% | 0.095 |
+{: caption="Table 3. Average MAE and correlation"}
 
 As the following guidelines indicate, {{site.data.keyword.IBM_notm}} recommends that you provide at least 1200 words, but providing at least 600 words produces acceptable results:
 
