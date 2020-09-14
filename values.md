@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -30,31 +30,11 @@ subcollection: personality-insights
 
 A score above the mean of 0.5 indicates a greater than average tendency for a characteristic. A score at or above 0.75 indicates readily discernible aspects of the characteristic; such scores are considered *high*. For more information, see [Percentiles for personality characteristics](/docs/personality-insights?topic=personality-insights-numeric#percentiles).
 
-<table>
-  <caption>Table 1. Values</caption>
-  <tr>
-    <th style="text-align:left">Value</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Self-transcendence / Helping others</strong></td>
-    <td>Show concern for the welfare and interests of others.</td>
-  </tr>
-  <tr>
-    <td><strong>Conservation / Tradition</strong></td>
-    <td>Emphasize self-restriction, order, and resistance to change.</td>
-  </tr>
-  <tr>
-    <td><strong>Hedonism / Taking pleasure in life</strong></td>
-    <td>Seek pleasure and sensuous gratification for themselves.</td>
-  </tr>
-  <tr>
-    <td><strong>Self-enhancement / Achieving success</strong></td>
-    <td>Seek personal success for themselves.</td>
-  </tr>
-  <tr>
-    <td><strong>Open to change / Excitement</strong></td>
-    <td>Emphasize independent action, thought, and feeling, as well as
-      a readiness for new experiences.</td>
-  </tr>
-</table>
+| Value | Individuals who score high... |
+|-------|-------------------------------|
+| **Self-transcendence / Helping others** | Show concern for the welfare and interests of others. |
+| **Conservation / Tradition** | Emphasize self-restriction, order, and resistance to change. |
+| **Hedonism / Taking pleasure in life** | Seek pleasure and sensuous gratification for themselves. |
+| **Self-enhancement / Achieving success** | Seek personal success for themselves. |
+| **Open to change / Excitement** | Emphasize independent action, thought, and feeling, as well asa readiness for new experiences. |
+{: caption="Table 1. Values"}

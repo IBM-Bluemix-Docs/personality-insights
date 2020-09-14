@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-14"
 
 subcollection: personality-insights
 
@@ -38,46 +38,15 @@ For more information, see [Percentiles for personality characteristics](/docs/pe
 
 Brief descriptions of the dimension's facets and of individuals who score high in each facet.
 
-<table>
-  <caption>Table 1. Facets (openness)</caption>
-  <tr>
-    <th style="text-align:left">Facet</th>
-    <th style="text-align:left">Individuals who score high...</th>
-  </tr>
-  <tr>
-    <td><strong>Adventurousness / Willingness to experiment</strong></td>
-    <td>Are eager to try new activities and experience different things.
-    They find familiarity and routine boring.</td>
-  </tr>
-  <tr>
-    <td><strong>Artistic interests</strong></td>
-    <td>Love beauty, both in art and in nature. They become easily involved
-    and absorbed in artistic and natural events. With intellect, this facet
-    is one of the two most important, central aspects of this
-    characteristic.</td>
-  </tr>
-  <tr>
-    <td><strong>Emotionality / Emotionally aware / Depth of emotions</strong></td>
-    <td>Have good access to and awareness of their own feelings.</td>
-  </tr>
-  <tr>
-    <td><strong>Imagination</strong></td>
-    <td>View the real world as often too plain and ordinary. They use
-    fantasy not as an escape but as a way of creating for themselves a
-    richer and more interesting inner-world.</td>
-  </tr>
-  <tr>
-    <td><strong>Intellect / Intellectual curiosity</strong></td>
-    <td>Are intellectually curious and tend to think in symbols and
-    abstractions. With artistic interests, this facet is one of the two
-    most important, central aspects of this characteristic.</td>
-  </tr>
-  <tr>
-    <td><strong>Liberalism / Authority challenging / Tolerance for diversity</strong></td>
-    <td>Have a readiness to challenge authority, convention, and traditional
-    values.</td>
-  </tr>
-</table>
+| Facet | Individuals who score high... |
+|-------|-------------------------------|
+| **Adventurousness / Willingness to experiment** | Are eager to try new activities and experience different things.They find familiarity and routine boring. |
+| **Artistic interests** | Love beauty, both in art and in nature. They become easily involvedand absorbed in artistic and natural events. With intellect, this facetis one of the two most important, central aspects of thischaracteristic. |
+| **Emotionality / Emotionally aware / Depth of emotions** | Have good access to and awareness of their own feelings. |
+| **Imagination** | View the real world as often too plain and ordinary. They usefantasy not as an escape but as a way of creating for themselves aricher and more interesting inner-world. |
+| **Intellect / Intellectual curiosity** | Are intellectually curious and tend to think in symbols andabstractions. With artistic interests, this facet is one of the twomost important, central aspects of this characteristic. |
+| **Liberalism / Authority challenging / Tolerance for diversity** | Have a readiness to challenge authority, convention, and traditionalvalues. |
+{: caption="Table 1. Facets (openness)"}
 
 ## Range of characteristics
 {: #range-opens}
@@ -120,7 +89,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Consistent
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Adventurousness</strong>
+      **Adventurousness**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Adventurous
@@ -138,7 +107,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Unconcerned with art
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Artistic interests</strong>
+      **Artistic interests**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Appreciative of art
@@ -155,7 +124,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Dispassionate
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Emotionality</strong>
+      **Emotionality**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Emotionally aware
@@ -172,7 +141,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Down-to-earth
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Imagination</strong>
+      **Imagination**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Imaginative
@@ -190,7 +159,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Concrete
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Intellect</strong>
+      **Intellect**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Philosophical
@@ -207,7 +176,7 @@ General descriptions that might apply to individuals whose scores evidence more 
       Respectful of authority
     </td>
     <td headers="blank facet" style="text-align:center">
-      <strong>Liberalism</strong>
+      **Liberalism**
     </td>
     <td headers="highValue highTerm" style="text-align:center">
       Authority-challenging
@@ -224,59 +193,14 @@ General descriptions that might apply to individuals whose scores evidence more 
 
 Information that relates the dimension to other dimensions, describing combinations of personality characteristics. Provides insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality.
 
-<table>
-  <caption>Table 3. Primary and secondary dimensions (openness)</caption>
-  <tr>
-    <th colspan="2" style="width:30%">Dimension</th>
-    <th style="width:35%">High openness</th>
-    <th style="width:35%">Low openness</th>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Agreeableness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Idealistic, diplomatic, deep, tactful, genial</td>
-    <td>Simple, dependent</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Shrewd, eccentric, individualistic</td>
-    <td>Coarse, tactless, curt, narrow-minded, callous</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Conscientiousness</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Analytical, perceptive, informative, articulate, dignified</td>
-    <td>Conventional, traditional</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Unconventional, quirky</td>
-    <td>Shortsighted, foolhardy, illogical, immature, haphazard</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Extraversion</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Worldly, theatrical, eloquent, inquisitive, intense</td>
-    <td>Verbose, unscrupulous, pompous</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Introspective, meditative, contemplating, self-examining, inner-directed</td>
-    <td>Predictable, unimaginative, somber, apathetic, unadventurous</td>
-  </tr>
-  <tr>
-    <td style="text-align:left"><strong>Emotional range</strong></td>
-    <td style="text-align:center"><em>High</em></td>
-    <td>Passionate, excitable, sensual</td>
-    <td>Easily rattled, easily irked, apprehensive</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td style="text-align:center"><em>Low</em></td>
-    <td>Creative, intellectual, insightful, versatile, inventive</td>
-    <td>Imperturbable, insensitive</td>
-  </tr>
-</table>
+| Dimension | Score | High openness | Low openness |
+|-----------|:-----:|---------------|--------------|
+| **Agreeableness** | *High* | Idealistic, diplomatic, deep, tactful, genial | Simple, dependent |
+|  | *Low* | Shrewd, eccentric, individualistic | Coarse, tactless, curt, narrow-minded, callous |
+| **Conscientiousness** | *High* | Analytical, perceptive, informative, articulate, dignified | Conventional, traditional |
+|  | *Low* | Unconventional, quirky | Shortsighted, foolhardy, illogical, immature, haphazard |
+| **Extraversion** | *High* | Worldly, theatrical, eloquent, inquisitive, intense | Verbose, unscrupulous, pompous |
+|  | *Low* | Introspective, meditative, contemplating, self-examining, inner-directed | Predictable, unimaginative, somber, apathetic, unadventurous |
+| **Emotional range** | *High* | Passionate, excitable, sensual | Easily rattled, easily irked, apprehensive |
+|  | *Low* | Creative, intellectual, insightful, versatile, inventive | Imperturbable, insensitive |
+{: caption="Table 3. Primary and secondary dimensions (openness)"}
