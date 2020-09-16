@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-16"
 
 subcollection: personality-insights
 
@@ -130,7 +130,7 @@ The study analyzed 133 behavioral consumption attributes based on 22 {{site.data
 
 The overall results reveal that {{site.data.keyword.personalityinsightsshort}} characteristics are useful in predicting various consumption preferences. Using demographics and personality characteristics together usually yields better predictive accuracy. But {{site.data.keyword.personalityinsightsshort}} alone is a good alternative when demographics are not available.
 
-For more information about the study, see <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Improving-Consumption-Preferences-Accuracy.pdf" download="Improving-Consumption-Preferences-Accuracy.pdf">Improving-Consumption-Preferences-Accuracy.pdf <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a>. For more information about the consumption preferences model that was used in the study, see [Liu and others (2016)](/docs/personality-insights?topic=personality-insights-references#liu2016).
+For more information about the study, see [Improving-Consumption-Preferences-Accuracy.pdf](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Improving-Consumption-Preferences-Accuracy.pdf){: external}. For more information about the consumption preferences model that was used in the study, see [Liu and others (2016)](/docs/personality-insights?topic=personality-insights-references#liu2016).
 
 ## Studies by other researchers
 {: #appliedOthers}

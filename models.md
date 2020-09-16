@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-04"
+lastupdated: "2020-09-16"
 
 subcollection: personality-insights
 
@@ -47,5 +47,5 @@ For more information about how the models were developed and how the service use
 Each Big Five dimension is described by three tables:
 
 -   The *Facets* table introduces the dimension's facets and describes individuals who score high on each facet.
--   The *Range of characteristics* table presents general descriptions that might apply to individuals whose scores evidence more or less of each facet of the dimension, along with terms that might describe such individuals. For a convenient single-page table that summarizes the *Range of characteristics* tables for the facets of all five dimensions, see <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Personality-Insights-Facet-Characteristics.pdf" download="Personality-Insights-Facet-Characteristics.pdf">Personality-Insights-Facet-Characteristics.pdf <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a>.
--   The *Primary and secondary dimensions* table presents information that relates the dimension to other dimensions, describing combinations of personality characteristics. The table provides interesting insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality. For a convenient single-page table that summarizes the *Primary and secondary characteristics* tables for all five dimensions, see <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Personality-Insights-Dimension-Characteristics.pdf" download="Personality-Insights-Dimension-Characteristics.pdf">Personality-Insights-Dimension-Characteristics.pdf <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a>.
+-   The *Range of characteristics* table presents general descriptions that might apply to individuals whose scores evidence more or less of each facet of the dimension, along with terms that might describe such individuals. For a convenient single-page table that summarizes the *Range of characteristics* tables for the facets of all five dimensions, see [Personality-Insights-Facet-Characteristics.pdf](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Personality-Insights-Facet-Characteristics.pdf){: external}.
+-   The *Primary and secondary dimensions* table presents information that relates the dimension to other dimensions, describing combinations of personality characteristics. The table provides interesting insight into how primary and secondary characteristics might interrelate to represent an individual's composite personality. For a convenient single-page table that summarizes the *Primary and secondary characteristics* tables for all five dimensions, see [Personality-Insights-Dimension-Characteristics.pdf](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/Personality-Insights-Dimension-Characteristics.pdf){: external}.

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-04"
+lastupdated: "2020-09-16"
 
 subcollection: personality-insights
 
@@ -28,7 +28,7 @@ subcollection: personality-insights
 When you use the `POST /v3/profile` method to analyze content, the service returns the results of its analysis as a JSON `Profile` object when you specify `application/json` with the `Accept` header of a request. The scope of the JSON output depends on the parameters you specify with the request. It also depends on whether the input text represents timestamped data, such as the text associated with a Twitter feed.
 {: shortdesc}
 
-The following sections describe the contents of a response in JSON format. All example output is produced by the sample JSON file <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json" download="profile.json">profile.json <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a> that is used in the [Getting started tutorial](/docs/personality-insights?topic=personality-insights-gettingStarted). For information about CSV output, see [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV).
+The following sections describe the contents of a response in JSON format. All example output is produced by the sample JSON file [profile.json](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json){: external} that is used in the [Getting started tutorial](/docs/personality-insights?topic=personality-insights-gettingStarted). For information about CSV output, see [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV).
 
 ## The Profile object
 {: #outputJSON}

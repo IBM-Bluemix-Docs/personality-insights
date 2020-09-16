@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-08-04"
+lastupdated: "2020-09-16"
 
 keywords: personality insights, getting started, tutorial
 
@@ -24,7 +24,6 @@ subcollection: personality-insights
 {:java: .ph data-hd-programlang='java'}
 {:python: .ph data-hd-programlang='python'}
 {:swift: .ph data-hd-programlang='swift'}
-{:download: .download}
 {:apikey: data-credential-placeholder='apikey'}
 {:url: data-credential-placeholder='url'}
 {:hide-dashboard: .hide-dashboard}
@@ -69,7 +68,7 @@ Omit the braces from the examples. They indicate variable values.
 
 The first example passes the plain text file `profile.txt` to the `POST /v3/profile` method and requests a JSON response.
 
-1.  Download  the sample file <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.txt" download="profile.txt">profile.txt <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a>.
+1.  Download  the sample file [profile.txt](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.txt){: external}.
 1.  Issue the following command to send the file to the `/v3/profile` method and request a JSON response.
     -   The `Content-Type` header specifies that the input is plain text, `text/plain`. The `charset` parameter included with the header identifies the character encoding of the input text.
     -   The `Accept` header specifies `application/json` to indicate that JSON output is requested.
@@ -94,7 +93,7 @@ The profile includes information about the Big Five personality, Needs, and Valu
 
 The second example passes the JSON file `profile.json` to the `/v3/profile` method, again requesting a JSON response. The example requests consumption preferences and raw scores for a more detailed analysis of the input.
 
-1.  Download the sample file <a target="_blank" href="https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json" download="profile.json">profile.json <img src="../icons/launch-glyph.svg" alt="External link icon" title="External link icon"></a>, which contains a collection of Twitter messages.
+1.  Download the sample file [profile.json](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json){: external}, which contains a collection of Twitter messages.
 1.  Issue the following command to send the file to the `/v3/profile` method. The example specifies `application/json` for the `Content-Type` and `Accept` headers; the `charset` parameter is not needed for JSON input. The example sets the `consumption_preferences` and `raw_scores` query parameters to `true`.
 
     ```bash
