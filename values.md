@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -36,5 +36,5 @@ A score above the mean of 0.5 indicates a greater than average tendency for a ch
 | **Conservation / Tradition** | Emphasize self-restriction, order, and resistance to change. |
 | **Hedonism / Taking pleasure in life** | Seek pleasure and sensuous gratification for themselves. |
 | **Self-enhancement / Achieving success** | Seek personal success for themselves. |
-| **Open to change / Excitement** | Emphasize independent action, thought, and feeling, as well asa readiness for new experiences. |
+| **Open to change / Excitement** | Emphasize independent action, thought, and feeling, as well as a readiness for new experiences. |
 {: caption="Table 1. Values"}

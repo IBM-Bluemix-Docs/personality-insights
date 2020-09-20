@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -90,7 +90,7 @@ For a complete list of all preferences by category and the range of their result
 
 For Arabic and Korean input, the service's models are unable to produce meaningful results for a subset of personality characteristics. For the following characteristics, normalized percentile scores are always `0.5` and raw scores are always the mean of the original distribution. The `significant` field for each of these characteristics is always `false`. Do *not* rely on the results for these characteristics as part of the personality profile of the author.
 
-| <bnr/>Characteristics | Arabic results that<br/>are not meaningful | Korean results that<br/>are not meaningful |
+| <br/>Characteristics | Arabic results that<br/>are not meaningful | Korean results that<br/>are not meaningful |
 |-----------------------|--------------------------------------------|--------------------------------------------|
 | Big Five facets | *Agreeableness*: Altruism, Cooperation, Modesty, and Trust<br/>*Conscientiousness*: Achievement striving and Dutifulness<br/>*Extraversion*: Cheerfulness and Friendliness (Outgoing)<br/>*Emotional range*: Anger (Fiery), Prone to worry, Immoderation, and Self-consciousness<br/>*Openness*: Adventurousness, Imagination, and Intellect | *Extraversion*: Excitement-seeking |
 | Needs | Ideal, Liberty, Love, Practicality, and Structure | Liberty and Stability |

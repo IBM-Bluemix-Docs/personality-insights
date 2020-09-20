@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-16"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -33,16 +33,16 @@ subcollection: personality-insights
 
 The following studies by {{site.data.keyword.IBM_notm}} researchers indicate that applying the results of the service can yield tangible results in multiple domains. The studies contributed directly to the development of the service. The table includes links to sections with more information about each study.
 
-| Study | Subjects | Effect of personalitycharacteristics |
+| Study | Subjects | Effect of personality characteristics |
 |-------|:--------:|--------------------------------------|
-| [Responding to tweets](#IBMrespond)<br/>(information-collection) | 2000 Twitter users | **More likely to respond:** Score high on Big Fivedimensions and facets excitement-seeking, friendliness, activitylevel, gregariousness, trust, morality, extraversion, andagreeableness<br/><br/>**Less likely to respond:** Score high on Big Fivefacets cautiousness and anxiety |
-| [Retweeting](#IBMretweet)<br/>(information-spreading) | 3500 Twitter users | **More likely to retweet:** Score high on Big Fivedimensions and facets modesty, openness, and friendliness |
-| [Targeted advertising](#IBMtarget)<br/>(unsolicited advertising) | More than 6000Twitter users | **Respond more favorably:** Score high on Big Fivedimension openness, and score low on Big Five dimension emotionalrange |
-| [Marketing campaigns](#IBMcampaign)<br/>(coupon redemption) | Thousands of retailcustomers | **More likely to respond:** Score high on Big Fivefacets orderliness, self-discipline, and cautiousness, and scorelow on Big Five facet immoderation |
-| [Brand preference](#IBMbrand)<br/>(brand affinity) | 600 Twitter users | **Predictors of brand preference:** Big Five dimensionsand facets conscientiousness, conservation, self-enhancement,and agreeableness; Needs love and ideal; and Value hedonism |
-| [Member satisfaction](#IBMmember)<br/>(community fulfillment) | More than 3000community members | **Predictors of member satisfaction:** Characteristicssuch as anger, anxiety, work, leisure, inhibition, assent, and useof the first-person pronoun |
-| [Reading preference](#IBMreading)<br/>(content interest) | More than 200participants | **Interest in environmental articles:** Score high on Valueself-transcendence<br/><br/>**Interest in work-related articles:** Score high on Valueself-enhancement |
-| [Predicting consumption preferences](#IBMpreferences)<br/>(consumer purchasing) | Hundreds of thousandsof data records | **Predicting consumer preferences:** Demographic data andpersonality characteristics |
+| [Responding to tweets](#IBMrespond)<br/>(information-collection) | 2000 Twitter users | **More likely to respond:** Score high on Big Five dimensions and facets excitement-seeking, friendliness, activity level, gregariousness, trust, morality, extraversion, and agreeableness<br/><br/>**Less likely to respond:** Score high on Big Five facets cautiousness and anxiety |
+| [Retweeting](#IBMretweet)<br/>(information-spreading) | 3500 Twitter users | **More likely to retweet:** Score high on Big Five dimensions and facets modesty, openness, and friendliness |
+| [Targeted advertising](#IBMtarget)<br/>(unsolicited advertising) | More than 6000Twitter users | **Respond more favorably:** Score high on Big Five dimension openness, and score low on Big Five dimension emotional range |
+| [Marketing campaigns](#IBMcampaign)<br/>(coupon redemption) | Thousands of retail customers | **More likely to respond:** Score high on Big Five facets orderliness, self-discipline, and cautiousness, and score low on Big Five facet immoderation |
+| [Brand preference](#IBMbrand)<br/>(brand affinity) | 600 Twitter users | **Predictors of brand preference:** Big Five dimensions and facets conscientiousness, conservation, self-enhancement, and agreeableness; Needs love and ideal; and Value hedonism |
+| [Member satisfaction](#IBMmember)<br/>(community fulfillment) | More than 3000community members | **Predictors of member satisfaction:** Characteristics such as anger, anxiety, work, leisure, inhibition, assent, and use of the first-person pronoun |
+| [Reading preference](#IBMreading)<br/>(content interest) | More than 200participants | **Interest in environmental articles:** Score high on Value self-transcendence<br/><br/>**Interest in work-related articles:** Score high on Value self-enhancement |
+| [Predicting consumption preferences](#IBMpreferences)<br/>(consumer purchasing) | Hundreds of thousands of data records | **Predicting consumer preferences:** Demographic data and personality characteristics |
 {: caption="Table 1. Studies by IBM"}
 
 ### Responding to tweets

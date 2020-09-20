@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -32,16 +32,16 @@ A score above the mean of 0.5 indicates a greater than average tendency for a ch
 
 | Need | Individuals who score high... |
 |------|-------------------------------|
-| **Excitement** | Want to get out there and live life, have upbeat emotions, and wantto have fun. |
+| **Excitement** | Want to get out there and live life, have upbeat emotions, and want to have fun. |
 | **Harmony** | Appreciate other people, their viewpoints, and their feelings. |
 | **Curiosity** | Have a desire to discover, find out, and grow. |
 | **Ideal** | Desire perfection and a sense of community. |
 | **Closeness** | Relish being connected to family and setting up a home. |
 | **Self-expression** | Enjoy discovering and asserting their own identities. |
-| **Liberty** | Have a desire for fashion and new things, as well as the need forescape. |
-| **Love** | Enjoy social contact, whether one-to-one or one-to-many. Any brandthat is involved in bringing people together taps this need. |
-| **Practicality** | Have a desire to get the job done, a desire for skill and efficiency,which can include physical expression and experience. |
+| **Liberty** | Have a desire for fashion and new things, as well as the need for escape. |
+| **Love** | Enjoy social contact, whether one-to-one or one-to-many. Any brand that is involved in bringing people together taps this need. |
+| **Practicality** | Have a desire to get the job done, a desire for skill and efficiency, which can include physical expression and experience. |
 | **Stability** | Seek equivalence in the physical world. They favor the sensible,the tried and tested. |
 | **Challenge** | Have an urge to achieve, to succeed, and to take on challenges. |
-| **Structure** | Exhibit groundedness and a desire to hold things together. Theyneed things to be well organized and under control. |
+| **Structure** | Exhibit groundedness and a desire to hold things together. They need things to be well organized and under control. |
 {: caption="Table 1. Needs"}
