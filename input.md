@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-16"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -46,7 +46,7 @@ You use the `Content-Type` and `Accept` header parameters to indicate the format
 |--------|:--------:|:------------------------------------------:|:------------------------------------:|
 | Plain text | `text/plain` | Yes (default)<br/><br/>The service processes plain text without modification. | No |
 | HTML | `text/html` | Yes<br/><br/>The service strips tags from the content before it processes the text. | No |
-| JSON | `application/json` | Yes<br/><br/>Content must conform to the model defined by the`Content` object, which is an arrayof `ContentItem` objects. | Yes<br/><br/>The service returns its results as a `Profile`object. |
+| JSON | `application/json` | Yes<br/><br/>Content must conform to the model defined by the`Content` object, which is an array of `ContentItem` objects. | Yes<br/><br/>The service returns its results as a `Profile`object. |
 | CSV | `text/csv` | No | Yes<br/><br/>By default, the service returns a single row of numeric results.Set the optional `csv_headers` query parameter to`true` to request headers for each column of the output. |
 {: caption="Table 1. Specifying request and response formats"}
 

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -40,12 +40,12 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 | Facet | Individuals who score high... |
 |-------|-------------------------------|
-| **Adventurousness / Willingness to experiment** | Are eager to try new activities and experience different things.They find familiarity and routine boring. |
-| **Artistic interests** | Love beauty, both in art and in nature. They become easily involvedand absorbed in artistic and natural events. With intellect, this facetis one of the two most important, central aspects of thischaracteristic. |
+| **Adventurousness / Willingness to experiment** | Are eager to try new activities and experience different things. They find familiarity and routine boring. |
+| **Artistic interests** | Love beauty, both in art and in nature. They become easily involved and absorbed in artistic and natural events. With intellect, this facet is one of the two most important, central aspects of this characteristic. |
 | **Emotionality / Emotionally aware / Depth of emotions** | Have good access to and awareness of their own feelings. |
-| **Imagination** | View the real world as often too plain and ordinary. They usefantasy not as an escape but as a way of creating for themselves aricher and more interesting inner-world. |
-| **Intellect / Intellectual curiosity** | Are intellectually curious and tend to think in symbols andabstractions. With artistic interests, this facet is one of the twomost important, central aspects of this characteristic. |
-| **Liberalism / Authority challenging / Tolerance for diversity** | Have a readiness to challenge authority, convention, and traditionalvalues. |
+| **Imagination** | View the real world as often too plain and ordinary. They use fantasy not as an escape but as a way of creating for themselves a richer and more interesting inner-world. |
+| **Intellect / Intellectual curiosity** | Are intellectually curious and tend to think in symbols and abstractions. With artistic interests, this facet is one of the two most important, central aspects of this characteristic. |
+| **Liberalism / Authority challenging / Tolerance for diversity** | Have a readiness to challenge authority, convention, and traditional values. |
 {: caption="Table 1. Facets (openness)"}
 
 ## Range of characteristics
@@ -53,140 +53,15 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 General descriptions that might apply to individuals whose scores evidence more or less of each facet of the dimension, as well as terms that might describe such individuals.
 
-<table summary="For the facet listed in the middle column of each row, the first two columns provide a description and a term for individuals with low scores for the facet, and the last two columns provide a term and a description for individuals with high scores for the facet.">
-  <caption>Table 2. Range of characteristics (openness)</caption>
-  <tr>
-    <th id="lowValue" colspan="2" style="text-align:center">
-      Description of low value
-    </th>
-    <th id="blank"></th>
-    <th id="highValue" colspan="2" style="text-align:center">
-      Description of high value
-    </th>
-  </tr>
-  <tr>
-    <th id="lowDescription" headers="lowValue" style="text-align:left; width: 23%">
-      Description
-    </th>
-    <th id="lowTerm" headers="lowValue" style="text-align:center; width: 16%">
-      Term
-    </th>
-    <th id="facet" headers="blank" style="text-align:center; width: 16%">
-      Facet
-    </th>
-    <th id="highTerm" headers="highValue" style="text-align:center; width: 16%">
-      Term
-    </th>
-    <th id="highDescription" headers="highValue" style="text-align:right">
-      Description
-    </th>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You enjoy familiar routines and prefer not to deviate from them.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Consistent
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Adventurousness**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Adventurous
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You are eager to experience new things.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You are less concerned with artistic or creative activities than
-      most people.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Unconcerned with art
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Artistic interests**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Appreciative of art
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You enjoy beauty and seek out creative experiences.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You do not frequently think about or openly express your emotions.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Dispassionate
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Emotionality**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Emotionally aware
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You are aware of your feelings and how to express them.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You prefer facts over fantasy.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Down-to-earth
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Imagination**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Imaginative
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You have a wild imagination.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You prefer dealing with the world as it is, rarely considering
-      abstract ideas.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Concrete
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Intellect**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Philosophical
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You are open to and intrigued by new ideas and love to explore them.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You prefer following with tradition to maintain a sense of stability.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Respectful of authority
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Liberalism**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Authority-challenging
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You prefer to challenge authority and traditional values to help
-      bring about change.
-    </td>
-  </tr>
-</table>
+| Description of<br/>low value | <br/>Term | <br/>Facet | <br/>Term | Description of<br/>high value |
+|------------------------------|:---------:|:----------:|:---------:|------------------------------:|
+| You enjoy familiar routines and prefer not to deviate from them. | Consistent | **Adventurousness** | Adventurous | You are eager to experience new things. |
+| You are less concerned with artistic or creative activities than most people. | Unconcerned with art | **Artistic interests** | Appreciative of art | You enjoy beauty and seek out creative experiences. |
+| You do not frequently think about or openly express your emotions. | Dispassionate | **Emotionality** | Emotionally aware | You are aware of your feelings and how to express them. |
+| You prefer facts over fantasy. | Down-to-earth | **Imagination** | Imaginative | You have a wild imagination. |
+| You prefer dealing with the world as it is, rarely considering abstract ideas. | Concrete | **Intellect** | Philosophical | You are open to and intrigued by new ideas and love to explore them. |
+| You prefer following with tradition to maintain a sense of stability. | Respectful of authority | **Liberalism** | Authority-challenging | You prefer to challenge authority and traditional values to help bring about change. |
+{: caption="Table 2. Range of characteristics (openness)"}
 
 ## Primary and secondary dimensions
 {: #dimensions-opens}

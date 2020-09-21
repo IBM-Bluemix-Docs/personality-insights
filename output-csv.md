@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -41,17 +41,17 @@ The following columns are always present in the CSV output for all requests.
 
 | Grouping<br/>(Number of columns) | <br/>Optional labels | <br/>Description |
 |----------------------------------|----------------------|------------------|
-| Big Five Agreeableness percentiles<br/>(Seven columns) | big5_agreeableness<br/>facet_altruism<br/>facet_cooperation<br/>facet_modesty<br/>facet_morality<br/>facet_sympathy<br/>facet_trust | Normalized percentile score for the author of the text for thenamed dimension or facet. |
-| Big Five Conscientiousness percentiles<br/>(Seven columns) | big5_conscientiousness<br/>facet_achievement_striving<br/>facet_cautiousness<br/>facet_dutifulness<br/>facet_orderliness<br/>facet_self_discipline<br/>facet_self_efficacy | Normalized percentile score for the author of the text for thenamed dimension or facet. |
-| Big Five Extraversion percentiles<br/>(Seven columns) | big5_extraversion<br/>facet_activity_level<br/>facet_assertiveness<br/>facet_cheerfulness<br/>facet_excitement_seeking<br/>facet_friendliness<br/>facet_gregariousness | Normalized percentile score for the author of the text for thenamed dimension or facet. |
-| Big Five Emotional range percentiles<br/>(Seven columns) | big5_neuroticism<br/>facet_anger<br/>facet_anxiety<br/>facet_depression<br/>facet_immoderation<br/>facet_self_consciousness<br/>facet_vulnerability | Normalized percentile score for the author of the text for thenamed dimension or facet. |
-| Big Five Openness percentiles<br/>(Seven columns) | big5_openness<br/>facet_adventurousness<br/>facet_artistic_interests<br/>facet_emotionality<br/>facet_imagination<br/>facet_intellect<br/>facet_liberalism | Normalized percentile score for the author of the text for thenamed dimension or facet. |
-| Needs percentiles<br/>(Twelve columns) | need_liberty<br/>need_ideal<br/>need_love<br/>need_practicality<br/>need_self_expression<br/>need_stability<br/>need_structure<br/>need_challenge<br/>need_closeness<br/>need_curiosity<br/>need_excitement<br/>need_harmony | Normalized percentile score for the author of the text for thenamed need. |
-| Values percentiles<br/>(Five columns) | value_conservation<br/>value_hedonism<br/>value_openness_to_change<br/>value_self_enhancement<br/>value_self_transcendence | Normalized percentile score for the author of the text for thenamed value. |
-| Days of the week percentages<br/>(Seven columns) | behavior_sunday<br/>behavior_monday<br/>behavior_tuesday<br/>behavior_wednesday<br/>behavior_thursday<br/>behavior_friday<br/>behavior_saturday | *If the input text is timestamped,* the percentage of theinput that is associated with each day of the week. Otherwise,all percentages are `0.0`. |
-| Hours of the day percentages<br/>(Twenty-four columns) | behavior_0000 *through* behavior_2300 | *If the input text is timestamped,* the percentage of theinput that is associated with each hour of the day. Otherwise,all percentages are `0.0`. |
-| Word count and language<br/>(Two columns) | word_count<br/>processed_language | An integer that indicates the number of words present in the inputtext, and a two-letter identifier for the language model that theservice used to analyze the text. |
-{: caption="Table 1. CSV columns for basic characteristics andmetadata"}
+| Big Five Agreeableness percentiles<br/>(Seven columns) | big5_agreeableness<br/>facet_altruism<br/>facet_cooperation<br/>facet_modesty<br/>facet_morality<br/>facet_sympathy<br/>facet_trust | Normalized percentile score for the author of the text for the named dimension or facet. |
+| Big Five Conscientiousness percentiles<br/>(Seven columns) | big5_conscientiousness<br/>facet_achievement_striving<br/>facet_cautiousness<br/>facet_dutifulness<br/>facet_orderliness<br/>facet_self_discipline<br/>facet_self_efficacy | Normalized percentile score for the author of the text for the named dimension or facet. |
+| Big Five Extraversion percentiles<br/>(Seven columns) | big5_extraversion<br/>facet_activity_level<br/>facet_assertiveness<br/>facet_cheerfulness<br/>facet_excitement_seeking<br/>facet_friendliness<br/>facet_gregariousness | Normalized percentile score for the author of the text for the named dimension or facet. |
+| Big Five Emotional range percentiles<br/>(Seven columns) | big5_neuroticism<br/>facet_anger<br/>facet_anxiety<br/>facet_depression<br/>facet_immoderation<br/>facet_self_consciousness<br/>facet_vulnerability | Normalized percentile score for the author of the text for the named dimension or facet. |
+| Big Five Openness percentiles<br/>(Seven columns) | big5_openness<br/>facet_adventurousness<br/>facet_artistic_interests<br/>facet_emotionality<br/>facet_imagination<br/>facet_intellect<br/>facet_liberalism | Normalized percentile score for the author of the text for the named dimension or facet. |
+| Needs percentiles<br/>(Twelve columns) | need_liberty<br/>need_ideal<br/>need_love<br/>need_practicality<br/>need_self_expression<br/>need_stability<br/>need_structure<br/>need_challenge<br/>need_closeness<br/>need_curiosity<br/>need_excitement<br/>need_harmony | Normalized percentile score for the author of the text for the named need. |
+| Values percentiles<br/>(Five columns) | value_conservation<br/>value_hedonism<br/>value_openness_to_change<br/>value_self_enhancement<br/>value_self_transcendence | Normalized percentile score for the author of the text for the named value. |
+| Days of the week percentages<br/>(Seven columns) | behavior_sunday<br/>behavior_monday<br/>behavior_tuesday<br/>behavior_wednesday<br/>behavior_thursday<br/>behavior_friday<br/>behavior_saturday | *If the input text is timestamped,* the percentage of the input that is associated with each day of the week. Otherwise,all percentages are `0.0`. |
+| Hours of the day percentages<br/>(Twenty-four columns) | behavior_0000 *through* behavior_2300 | *If the input text is timestamped,* the percentage of the input that is associated with each hour of the day. Otherwise,all percentages are `0.0`. |
+| Word count and language<br/>(Two columns) | word_count<br/>processed_language | An integer that indicates the number of words present in the input text, and a two-letter identifier for the language model that the service used to analyze the text. |
+{: caption="Table 1. CSV columns for basic characteristics and metadata"}
 
 ## Raw scores
 {: #rawCSV}

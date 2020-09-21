@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -40,12 +40,12 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 | Facet | Individuals who score high... |
 |-------|-------------------------------|
-| **Altruism / Altruistic** | Find that helping others is genuinely rewarding, that doingthings for others is a form of self-fulfillment rather thanself-sacrifice. |
-| **Cooperation / Accommodating / Compliance** | Dislike confrontation. They are perfectly willing to compromiseor to deny their own needs to get along with others. |
-| **Modesty / Modest** | Are unassuming, rather self-effacing, and humble. However, theydo not necessarily lack self-confidence or self-esteem. |
-| **Morality / Uncompromising / Sincerity** | See no need for pretense or manipulation when dealing withothers and are therefore candid, frank, and genuine. |
+| **Altruism / Altruistic** | Find that helping others is genuinely rewarding, that doing things for others is a form of self-fulfillment rather than self-sacrifice. |
+| **Cooperation / Accommodating / Compliance** | Dislike confrontation. They are perfectly willing to compromise or to deny their own needs to get along with others. |
+| **Modesty / Modest** | Are unassuming, rather self-effacing, and humble. However, they do not necessarily lack self-confidence or self-esteem. |
+| **Morality / Uncompromising / Sincerity** | See no need for pretense or manipulation when dealing with others and are therefore candid, frank, and genuine. |
 | **Sympathy / Empathetic** | Are tender-hearted and compassionate. |
-| **Trust / Trusting of others** | Assume that most people are fundamentally fair, honest, andhave good intentions. They take people at face value and are willingto forgive and forget. |
+| **Trust / Trusting of others** | Assume that most people are fundamentally fair, honest, and have good intentions. They take people at face value and are willing to forgive and forget. |
 {: caption="Table 1. Facets (agreeableness)"}
 
 ## Range of characteristics
@@ -53,139 +53,15 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 General descriptions that might apply to individuals whose scores evidence more or less of each facet of the dimension, as well as terms that might describe such individuals.
 
-<table summary="For the facet listed in the middle column of each row, the first two columns provide a description and a term for individuals with low scores for the facet, and the last two columns provide a term and a description for individuals with high scores for the facet.">
-  <caption>Table 2. Range of characteristics (agreeableness)</caption>
-  <tr>
-    <th id="lowValue" colspan="2" style="text-align:center">
-      Description of low value
-    </th>
-    <th id="blank"></th>
-    <th id="highValue" colspan="2" style="text-align:center">
-      Description of high value
-    </th>
-  </tr>
-  <tr>
-    <th id="lowDescription" headers="lowValue" style="text-align:left; width:23%">
-      Description
-    </th>
-    <th id="lowTerm" headers="lowValue" style="text-align:center; width:16%">
-      Term
-    </th>
-    <th id="facet" headers="blank" style="text-align:center; width:16%">
-      Facet
-    </th>
-    <th id="highTerm" headers="highValue" style="text-align:center; width:16%">
-      Term
-    </th>
-    <th id="highDescription" headers="highValue" style="text-align:right">
-      Description
-    </th>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You are more concerned with taking care of yourself than taking time
-      for others.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Self-focused
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Altruism**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Altruistic
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You feel fulfilled when helping others and will go out of your way to
-      do so.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You do not shy away from contradicting others.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Contrary</td>
-    <td headers="blank facet" style="text-align:center">
-      **Cooperation**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Accommodating
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You are easy to please and try to avoid confrontation.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You hold yourself in high regard and are satisfied with who you are.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Proud
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Modesty**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Modest
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You are uncomfortable being the center of attention.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You are comfortable using every trick in the book to get what you want.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Compromising
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Morality**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Uncompromising
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You think it is wrong to take advantage of others to get ahead.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You think people should generally rely more on themselves than on
-      others.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Hard-hearted
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Sympathy**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Empathetic
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You feel what others feel and are compassionate toward them.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You are wary of other people's intentions and do not trust easily.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Cautious of others
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Trust**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Trusting of others
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You believe the best of others and trust people easily.
-    </td>
-  </tr>
-</table>
+| Description of<br/>low value | <br/>Term | <br/>Facet | <br/>Term | Description of<br/>high value |
+|------------------------------|:------ --:|:----------:|:---------:|------------------------------:|
+| You are more concerned with taking care of yourself than taking time for others. | Self-focused | **Altruism** | Altruistic | You feel fulfilled when helping others and will go out of your way to do so. |
+| You do not shy away from contradicting others. | Contrary | **Cooperation** | Accommodating | You are easy to please and try to avoid confrontation. |
+| You hold yourself in high regard and are satisfied with who you are. | Proud | **Modesty** | Modest | You are uncomfortable being the center of attention. |
+| You are comfortable using every trick in the book to get what you want. | Compromising | **Morality** | Uncompromising | You think it is wrong to take advantage of others to get ahead. |
+| You think people should generally rely more on themselves than on others. | Hard-hearted | **Sympathy** | Empathetic | You feel what others feel and are compassionate toward them. |
+| You are wary of other people's intentions and do not trust easily. | Cautious of others | **Trust** | Trusting of others | You believe the best of others and trust people easily. |
+{: caption="Table 2. Range of characteristics (agreeableness)"}
 
 ## Primary and secondary dimensions
 {: #dimensions-agree}

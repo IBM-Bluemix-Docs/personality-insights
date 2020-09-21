@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -40,11 +40,11 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 | Facet | Individuals who score high... |
 |-------|-------------------------------|
-| **Achievement striving / Driven** | Try hard to achieve excellence. Their drive to be recognizedas successful keeps them on track as they work hard to accomplishtheir goals. |
-| **Cautiousness / Deliberate / Deliberateness** | Are disposed to think through possibilities carefully beforeacting. |
+| **Achievement striving / Driven** | Try hard to achieve excellence. Their drive to be recognized as successful keeps them on track as they work hard to accomplish their goals. |
+| **Cautiousness / Deliberate / Deliberateness** | Are disposed to think through possibilities carefully before acting. |
 | **Dutifulness / Dutiful / Sense of responsibility** | Have a strong sense of duty and obligation. |
 | **Orderliness / Organized** | Are well-organized, tidy, and neat. |
-| **Self-discipline / Persistent** | Have the self-discipline, or "will-power," to persist at difficultor unpleasant tasks until they are completed. |
+| **Self-discipline / Persistent** | Have the self-discipline, or "will-power," to persist at difficult or unpleasant tasks until they are completed. |
 | **Self-efficacy / Self-assured / Sense of competence** | Are confident in their ability to accomplish things. |
 {: caption="Table 1. Facets (conscientiousness)"}
 
@@ -53,142 +53,15 @@ Brief descriptions of the dimension's facets and of individuals who score high i
 
 General descriptions that might apply to individuals whose scores evidence more or less of each facet of the dimension, as well as terms that might describe such individuals.
 
-<table summary="For the facet listed in the middle column of each row, the first two columns provide a description and a term for individuals with low scores for the facet, and the last two columns provide a term and a description for individuals with high scores for the facet.">
-  <caption>Table 2. Range of characteristics (conscientiousness)</caption>
-  <tr>
-    <th id="lowValue" colspan="2" style="text-align:center">
-      Description of low value
-    </th>
-    <th id="blank"></th>
-    <th id="highValue" colspan="2" style="text-align:center">
-      Description of high value
-    </th>
-  </tr>
-  <tr>
-    <th id="lowDescription" headers="lowValue" style="text-align:left; width:23%">
-      Description
-    </th>
-    <th id="lowTerm" headers="lowValue" style="text-align:center; width:16%">
-      Term
-    </th>
-    <th id="facet" headers="blank" style="text-align:center; width:16%">
-      Facet
-    </th>
-    <th id="highTerm" headers="highValue" style="text-align:center; width:16%">
-      Term
-    </th>
-    <th id="highDescription" headers="highValue" style="text-align:right">
-      Description
-    </th>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You are content with your level of accomplishment and do not feel
-      the need to set ambitious goals.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Content
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Achievement-striving**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Driven
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You set high goals for yourself and work hard to achieve them.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You would rather take action immediately than spend time deliberating
-      making a decision.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Bold
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Cautiousness**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Deliberate
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You carefully think through decisions before making them.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You do what you want, disregarding rules and obligations.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Carefree
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Dutifulness**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Dutiful
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You take rules and obligations seriously, even when they are
-      inconvenient.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You do not make a lot of time for organization in your daily life.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Unstructured
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Orderliness**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Organized
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You feel a strong need for structure in your life.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You have a hard time sticking with difficult tasks for a long period
-      of time.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Intermittent
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Self-discipline**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Persistent
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You can tackle and stick with tough tasks.
-    </td>
-  </tr>
-  <tr>
-    <td headers="lowValue lowDescription" style="text-align:left">
-      You frequently doubt your ability to achieve your goals.
-    </td>
-    <td headers="lowValue lowTerm" style="text-align:center">
-      Self-doubting
-    </td>
-    <td headers="blank facet" style="text-align:center">
-      **Self-efficacy**
-    </td>
-    <td headers="highValue highTerm" style="text-align:center">
-      Self-assured
-    </td>
-    <td headers="highValue highDescription" style="text-align:right">
-      You feel you have the ability to succeed in the tasks you set out
-      to do.
-    </td>
-  </tr>
-</table>
+| Description of<br/>low value | <br/>Term | <br/>Facet | <br/>Term | Description of<br/>high value |
+|------------------------------|:---------:|:----------:|:---------:|------------------------------:|
+| You are content with your level of accomplishment and do not feel the need to set ambitious goals. | Content | **Achievement-striving** | Driven | You set high goals for yourself and work hard to achieve them. |
+| You would rather take action immediately than spend time deliberating making a decision. | Bold | **Cautiousness** | Deliberate | You carefully think through decisions before making them. |
+| You do what you want, disregarding rules and obligations. | Carefree | **Dutifulness** | Dutiful | You take rules and obligations seriously, even when they are inconvenient. |
+| You do not make a lot of time for organization in your daily life. | Unstructured | **Orderliness** | Organized | You feel a strong need for structure in your life. |
+| You have a hard time sticking with difficult tasks for a long period of time. | Intermittent | **Self-discipline** | Persistent | You can tackle and stick with tough tasks. |
+| You frequently doubt your ability to achieve your goals. | Self-doubting | **Self-efficacy** | Self-assured | You feel you have the ability to succeed in the tasks you set out to do. |
+{: caption="Table 2. Range of characteristics (conscientiousness)"}
 
 ## Primary and secondary dimensions
 {: #dimensions-consc}

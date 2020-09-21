@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-09-20"
 
 subcollection: personality-insights
 
@@ -51,9 +51,9 @@ Shopping preferences indicate the author's interest in different types of purcha
 | `consumption_preferences_clothes_style` | Likely to prefer style when buying clothes | `0.0` (unlikely)<br/>`1.0` (likely) |
 | `consumption_preferences_clothes_comfort` | Likely to prefer comfort when buying clothes | `0.0` (unlikely)<br/>`1.0` (likely) |
 | `consumption_preferences_influence_brand_name` | Likely to be influenced by brand name when making product purchases | `0.0` (unlikely)<br/>`0.5` (neutral)<br/>`1.0` (likely) |
-| `consumption_preferences_influence_utility` | Likely to be influenced by product utility when making productpurchases | `0.0` (unlikely)<br/>`0.5` (neutral)<br/>`1.0` (likely) |
+| `consumption_preferences_influence_utility` | Likely to be influenced by product utility when making product purchases | `0.0` (unlikely)<br/>`0.5` (neutral)<br/>`1.0` (likely) |
 | `consumption_preferences_influence_online_ads` | Likely to be influenced by online ads when making product purchases | `0.0` (unlikely)<br/>`1.0` (likely) |
-| `consumption_preferences_influence_social_media` | Likely to be influenced by social media when making productpurchases | `0.0` (unlikely)<br/>`1.0` (likely) |
+| `consumption_preferences_influence_social_media` | Likely to be influenced by social media when making product purchases | `0.0` (unlikely)<br/>`1.0` (likely) |
 | `consumption_preferences_influence_family_members` | Likely to be influenced by family when making product purchases | `0.0` (unlikely)<br/>`1.0` (likely) |
 | `consumption_preferences_spur_of_moment` | Likely to indulge in spur of the moment purchases | `0.0` (unlikely)<br/>`0.5` (neutral)<br/>`1.0` (likely) |
 | `consumption_preferences_credit_card_payment` | Likely to prefer using credit cards for shopping | `0.0` (unlikely)<br/>`1.0` (likely) |
