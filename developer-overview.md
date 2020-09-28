@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-01-30"
+lastupdated: "2020-09-28"
 
 subcollection: personality-insights
 
@@ -67,5 +67,5 @@ SDKs are available for the {{site.data.keyword.personalityinsightsshort}} servic
 For more information about working with {{site.data.keyword.watson}} services and {{site.data.keyword.cloud}}, see the following sections:
 
 -   For an introduction to working with {{site.data.keyword.watson}} services and {{site.data.keyword.cloud_notm}}, see [Getting started with {{site.data.keyword.watson}} and {{site.data.keyword.cloud_notm}}](/docs/watson?topic=watson-about).
--   All new service instances use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for authentication. Older service instances might continue to use the `{username}` and `{password}` from their existing Cloud Foundry service credentials for authentication. For more information about authenticating to the service, see the [30 October 2018 service update](/docs/personality-insights?topic=personality-insights-release-notes#October2018) in the release notes.
+-   All service instances use {{site.data.keyword.cloud_notm}} Identity and Access Management (IAM) for authentication. For more information, see [Authenticating to Watson services](/docs/watson?topic=watson-iam).
 -   Request logging is disabled for the {{site.data.keyword.personalityinsightsshort}} service. The service does not log or retain data from requests and responses, regardless of whether the `X-Watson-Learning-Opt-Out` request header is set.
