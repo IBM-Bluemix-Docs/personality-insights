@@ -40,7 +40,6 @@ Personality Insights
 
     preferences.md
     ha-dr.md
-    /watson/watson-migrate
 
     {: topicgroup}
     Service background
