@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-16"
+lastupdated: "2020-10-16"
 
 keywords: personality insights, getting started, tutorial
 
@@ -135,5 +135,5 @@ For a detailed description of the CSV response and headers, see [Understanding a
 
 -   Learn more about [Requesting a profile](/docs/personality-insights?topic=personality-insights-input) and about [Understanding a JSON profile](/docs/personality-insights?topic=personality-insights-output) and [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV).
 -   Learn about the Big Five, Needs, and Values [Personality models](/docs/personality-insights?topic=personality-insights-models).
--   Learn more about the API in the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+-   Learn more about the API in the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 -   Explore the [Node.js sample application](https://github.com/watson-developer-cloud/personality-insights-nodejs){: external} to learn more about application development with the service.

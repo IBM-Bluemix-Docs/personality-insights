@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-28"
+lastupdated: "2020-10-16"
 
 subcollection: personality-insights
 
@@ -59,7 +59,7 @@ By using CORS, web pages can request resources from a foreign domain, one that i
 SDKs are available for the {{site.data.keyword.personalityinsightsshort}} service to simplify application development. {{site.data.keyword.ibmwatson}} SDKs are available for many popular programming languages and platforms.
 
 -   For a complete list of SDKs and links to the SDKs on GitHub, see [Using SDKs](/docs/personality-insights?topic=watson-using-sdks).
--   For detailed information about all methods of the Node, Java, Python, Ruby, and Go SDKs for the {{site.data.keyword.personalityinsightsshort}} service, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+-   For detailed information about all methods of the Node, Java, Python, Ruby, and Go SDKs for the {{site.data.keyword.personalityinsightsshort}} service, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 ## Learning more about application development
 {: #learn-overview}

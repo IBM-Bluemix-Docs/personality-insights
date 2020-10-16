@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-10-16"
 
 subcollection: personality-insights
 
@@ -45,7 +45,7 @@ The release notes document the *service version* and *interface version* for all
 
         The previous public endpoint domain was `watsonplatform.net`.
 
-        For more information about the URLs, see the [API reference](https://{DomainName}/apidocs/personality-insights#service-endpoint){: external}.
+        For more information about the URLs, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights#service-endpoint){: external}.
 
         These URLs do not introduce a breaking change. The new URLs work both for your existing service instances and for new instances. The original URLs continue to work on your existing service instances for at least one year (until December 2020).
     - For more information about IAM, see [Authenticating to Watson services](/docs/watson?topic=watson-iam).
@@ -165,7 +165,7 @@ For more information, see the following documentation:
 
 -   To learn which authentication mechanism your service instance uses, view your service credentials by clicking the instance on the [{{site.data.keyword.cloud_notm}} dashboard](https://{DomainName}/resources){: external}.
 -   For more information about using IAM API keys and tokens with Watson services, see [Authenticating to Watson services](/docs/watson?topic=watson-iam).
--   For examples that use IAM authentication, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+-   For examples that use IAM authentication, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 ### 11 June 2018
 {: #June2018b}
@@ -309,7 +309,7 @@ This documentation now describes version 3 of the {{site.data.keyword.personalit
 
 -   For more information about calling the `/v3/profile` method, see [Requesting a profile](/docs/personality-insights?topic=personality-insights-input).
 -   For more information about the `/v3/profile` method's response, see [Understanding a JSON profile](/docs/personality-insights?topic=personality-insights-output) and [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV).
--   For more information about the version 3 interface, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+-   For more information about the version 3 interface, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 #### Changes to parameters of the `/v3/profile` method
 
@@ -464,7 +464,7 @@ For the new model used for English input, the service reports the average Mean A
     -   429 *Too Many Requests*: The service is processing too many requests for the content language. Wait a short time and try the request again. If you are submitting many requests for the language, consider throttling the rate at which you submit requests.
     -   504 *Gateway Timeout*: The request timed out or took too long to process. Wait a short time and try the request again. If the input contained too many words (for example, more than 20,000), consider reducing the number of words but maintain the guidelines for meaningful input.
 
-    The method no longer returns 503 *Service Unavailable*. For more information about possible response codes, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+    The method no longer returns 503 *Service Unavailable*. For more information about possible response codes, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 -   The update includes defect fixes and internal improvements.
 
 ### 7 June 2016
@@ -477,7 +477,7 @@ For the new model used for English input, the service reports the average Mean A
 ### 1 June 2016
 {: #June2016a}
 
-The service was updated for defect fixes and internal improvements. A new top-level field, `warnings`, was also added to the JSON results that are returned by the service. For more information, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+The service was updated for defect fixes and internal improvements. A new top-level field, `warnings`, was also added to the JSON results that are returned by the service. For more information, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 ### 17 May 2016
 {: #May2016}
