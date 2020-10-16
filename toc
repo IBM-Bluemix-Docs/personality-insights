@@ -51,7 +51,7 @@ Personality Insights
     {: .navgroup-end}
 
     {: .navgroup id="reference"}
-    [API reference](https://cloud.ibm.com/apidocs/personality-insights)
+    [API & SDK reference](https://cloud.ibm.com/apidocs/personality-insights)
     information-security.md
     /watson/watson-using-sdks
     [Watson GitHub repos](https://github.com/watson-developer-cloud/)

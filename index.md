@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-14"
+lastupdated: "2020-10-16"
 
 subcollection: personality-insights
 
@@ -29,7 +29,7 @@ subcollection: personality-insights
 
 **Service update:** *The {{site.data.keyword.personalityinsightsshort}} service was updated on December 12, 2019. The service now supports the full implementation of token-based Identity and Access Management (IAM) authentication, and private network endpoints for Premium plans. For more information, see the [12 December 2019 service update](/docs/personality-insights?topic=personality-insights-release-notes#December2019) in the release notes.*
 
-The {{site.data.keyword.personalityinsightsfull}} service provides an application programming interface (API) for deriving insights from social media, enterprise data, or other digital communications. The service uses linguistic analytics to infer individuals' intrinsic personality characteristics from digital communications such as email, text messages, tweets, and forum posts.
+The {{site.data.keyword.personalityinsightsfull}} service provides an API for deriving insights from social media, enterprise data, or other digital communications. The service uses linguistic analytics to infer individuals' intrinsic personality characteristics from digital communications such as email, text messages, tweets, and forum posts.
 {: shortdesc}
 
 The service infers, from potentially noisy social media, portraits of individuals that reflect their personality characteristics. It can also determine individuals' consumption preferences, which indicate their likelihood to prefer various products, services, and activities.

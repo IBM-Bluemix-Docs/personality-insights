@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-20"
+lastupdated: "2020-10-16"
 
 subcollection: personality-insights
 
@@ -32,7 +32,7 @@ To analyze content, you use the HTTP `POST` request method to call the `/v3/prof
 
 The `/v3/profile` method includes parameters that specify the type of content to be passed to and returned by the service, as well as the language of each type of content. The service always returns a profile that provides insight into the personality characteristics of the author of the input text. You can also request raw scores and consumption preferences.
 
-The following sections describe the parameters of the `/v3/profile` method. For information about the results of a request, see [Understanding a JSON profile](/docs/personality-insights?topic=personality-insights-output) and [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV). For detailed information about the `/v3/profile` method, see the [API reference](https://{DomainName}/apidocs/personality-insights){: external}.
+The following sections describe the parameters of the `/v3/profile` method. For information about the results of a request, see [Understanding a JSON profile](/docs/personality-insights?topic=personality-insights-output) and [Understanding a CSV profile](/docs/personality-insights?topic=personality-insights-outputCSV). For detailed information about the `/v3/profile` method, see the [API & SDK reference](https://{DomainName}/apidocs/personality-insights){: external}.
 
 Request logging is disabled for the {{site.data.keyword.personalityinsightsshort}} service. Regardless of whether you set the `X-Watson-Learning-Opt-Out` request header, the service does not log or retain data from requests and responses.
 {: note}
