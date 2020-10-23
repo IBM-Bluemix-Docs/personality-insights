@@ -2,11 +2,14 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-10-16"
+lastupdated: "2020-10-23"
 
-keywords: personality insights, getting started, tutorial
+keywords: personality insights,getting started,tutorial,
 
 subcollection: personality-insights
+
+content-type: tutorial
+completion-time: 10m
 
 ---
 
@@ -27,9 +30,12 @@ subcollection: personality-insights
 {:apikey: data-credential-placeholder='apikey'}
 {:url: data-credential-placeholder='url'}
 {:hide-dashboard: .hide-dashboard}
+{:step: data-tutorial-type='step'}
 
 # Getting started with {{site.data.keyword.personalityinsightsshort}}
 {: #gettingStarted}
+{: toc-content-type="tutorial"}
+{: toc-completion-time="10m"}
 
 The {{site.data.keyword.personalityinsightsfull}} service derives insights about personality characteristics from social media, enterprise data, or other digital communications. This tutorial can help you get started quickly with the {{site.data.keyword.personalityinsightsshort}} service. The examples show you how to call the service's `POST /v3/profile` method with different types of input and how to request different types of output and output formats.
 {: shortdesc}
@@ -60,11 +66,12 @@ This tutorial uses the `curl` command to call methods of the service's HTTP inte
 
 1.  If necessary, install the version of `curl` with SSL enabled for your operating system from [curl.haxx.se](https://curl.haxx.se/){: external}.
 
-Omit the braces from the examples. They indicate variable values.
+Omit the braces (`{ ]`) from the examples. They indicate variable values.
 {: tip}
 
-## Step 1: Send plain text input and receive basic JSON output
+## Send plain text input and receive basic JSON output
 {: #example1}
+{: step}
 
 The first example passes the plain text file `profile.txt` to the `POST /v3/profile` method and requests a JSON response.
 
@@ -88,8 +95,9 @@ The service returns a JSON `Profile` object that includes basic metadata such as
 
 The profile includes information about the Big Five personality, Needs, and Values characteristics for the author as inferred from the input text. The service reports a `percentile`, or normalized score, for each characteristic. The service computes the percentile by comparing the author's results with the results from a sample population. For more information, see [Personality characteristics output](/docs/personality-insights?topic=personality-insights-output#traitJSON).
 
-## Step 2: Send JSON input and receive detailed JSON output
+## Send JSON input and receive detailed JSON output
 {: #example2}
+{: step}
 
 The second example passes the JSON file `profile.json` to the `/v3/profile` method, again requesting a JSON response. The example requests consumption preferences and raw scores for a more detailed analysis of the input.
 
@@ -111,8 +119,9 @@ Because the input content includes timestamps, the service also reports behavior
 
 The service also reports scores for its collection of consumption preferences. The scores indicate the author's likelihood to prefer different products, services, and activities based on the inferred characteristics. For more information, see [Consumption preferences output](/docs/personality-insights?topic=personality-insights-output#preferenceJSON).
 
-## Step 3: Send JSON input and receive detailed CSV output
+## Send JSON input and receive detailed CSV output
 {: #example3}
+{: step}
 
 The third example is similar to the second: it passes the same JSON content and requests the same results. But this example specifies `text/csv` for the `Accept` header to request the response in comma-separated values (CSV) format. It uses the `--output` option of the `curl` command to direct the results to a file named `profile.csv`. The example sets the `csv_headers` query parameter to `true` to request that column headers be returned with the output.
 
