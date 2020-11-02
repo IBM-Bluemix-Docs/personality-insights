@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-06-24"
+lastupdated: "2020-11-02"
 
 subcollection: personality-insights
 
@@ -26,6 +26,9 @@ subcollection: personality-insights
 
 # Usage guidance
 {: #guidance}
+
+{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{: deprecated}
 
 Users are applying the {{site.data.keyword.personalityinsightsshort}} service to an increasing number of use cases. They apply the service to offer personalized product recommendations to customers via in-store kiosks. They explore and analyze differences in the personalities of US presidents as inferred from their State of the Union Addresses. And they integrate the service with another product in the {{site.data.keyword.IBM_notm}} {{site.data.keyword.watson}} portfolio, {{site.data.keyword.watson}} Explorer, to demonstrate how an investment advisor can offer suitable options based on investors' personality portraits. (For more information, see [Use cases](/docs/personality-insights?topic=personality-insights-usecases).)
 {: shortdesc}

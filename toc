@@ -1,7 +1,7 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="personality-insights" category="ai" audience="service" href="/docs/personality-insights?topic=personality-insights-gettingStarted" console-page="/developer/watson" product-page="https://www.ibm.com/cloud/watson-personality-insights" path="personality-insights"}
+{: .toc subcollection="personality-insights" audience="service" href="/docs/personality-insights?topic=personality-insights-gettingStarted" console-page="/developer/watson" product-page="https://www.ibm.com/cloud/watson-personality-insights" path="personality-insights"}
 Personality Insights
 
     {: .navgroup id="learn"}
