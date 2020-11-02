@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2019
-lastupdated: "2019-03-07"
+lastupdated: "2019-11-02"
 
 subcollection: personality-insights
 
@@ -24,6 +24,9 @@ subcollection: personality-insights
 
 # Use cases
 {: #usecases}
+
+{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{: deprecated}
 
 The {{site.data.keyword.personalityinsightsshort}} service lends itself to an almost limitless number of potential applications. By leveraging the Big Five personality characteristics, Needs, and Values, businesses and individuals alike can make more informed and more insightful decisions, and make more effective use of limited resources.
 {: shortdesc}

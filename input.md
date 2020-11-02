@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-10-16"
+lastupdated: "2020-11-02"
 
 subcollection: personality-insights
 
@@ -26,6 +26,9 @@ subcollection: personality-insights
 
 # Requesting a profile
 {: #input}
+
+{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{: deprecated}
 
 To analyze content, you use the HTTP `POST` request method to call the `/v3/profile` method of the {{site.data.keyword.personalityinsightsshort}} service. You can pass the service a maximum of 20 MB of content to be analyzed via the body of the request. However, the service requires far less input to produce an accurate personality profile. For more information, see [Providing sufficient input](#sufficient).
 {: shortdesc}

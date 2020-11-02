@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-09-03"
+lastupdated: "2020-11-02"
 
 subcollection: personality-insights
 
@@ -26,6 +26,9 @@ subcollection: personality-insights
 
 # The science behind the service
 {: #science}
+
+{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{: deprecated}
 
 A well-accepted theory of psychology, marketing, and other fields is that human language reflects personality, thinking style, social connections, and emotional states. The frequency with which people use certain categories of words can provide clues to these characteristics. Several researchers found that variations in word usage in writings such as blogs, essays, and tweets can predict aspects of personality ([Fast and Funder, 2008](/docs/personality-insights?topic=personality-insights-references#fast2008); [Gill and others, 2009](/docs/personality-insights?topic=personality-insights-references#gill2009); [Golbeck and others, 2011](/docs/personality-insights?topic=personality-insights-references#golbeck2011); [Hirsh and Peterson, 2009](/docs/personality-insights?topic=personality-insights-references#hirsh2009); and [Yarkoni, 2010](/docs/personality-insights?topic=personality-insights-references#yarkoni2010)).
 {: shortdesc}

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-10-16"
+lastupdated: "2020-11-02"
 
 subcollection: personality-insights
 
@@ -25,11 +25,32 @@ subcollection: personality-insights
 # Release notes
 {: #release-notes}
 
-The following sections document the new features and changes that were included for each release of the {{site.data.keyword.personalityinsightsshort}} service. Unless otherwise noted, all changes are compatible with earlier releases and are automatically and transparently available to all new and existing applications.
+The following sections document the new features and changes that were included for each release of the {{site.data.keyword.personalityinsightsfull}} service. Unless otherwise noted, all changes are compatible with earlier releases and are automatically and transparently available to all new and existing applications.
 {: shortdesc}
 
 The release notes document the *service version* and *interface version* for all recent updates. You specify the *interface version* with the `version` query parameter to use new features and functionality made available with that update. The service returns both versions with the `X-Service-Api-Version` response header.
 {: note}
+
+## 1 November 2020
+{: #November2020}
+
+{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{: deprecated}
+
+{{site.data.keyword.nlushort}} offers several features and capabilities that make it an attractive alternative to {{site.data.keyword.personalityinsightsshort}}. By default, {{site.data.keyword.nlushort}} provides the following features:
+
+-   Understand emotions by detecting anger, disgust, fear, joy, or sadness that is conveyed in the content or by the context around target phrases specified in the target parameter.
+-   Understand the general sentiment of your content or the sentiment toward specific target phrases.
+
+Clients who want to continue their use cases currently supported by {{site.data.keyword.personalityinsightsshort}} can re-create the capabilities by leveraging {{site.data.keyword.nlushort}} and {{site.data.keyword.nlclassifierfull}} to build their own custom text classification models.
+
+For more information about how clients are using {{site.data.keyword.nlushort}}, see these case studies:
+
+-   [www.ibm.com/case-studies/centiment](https://www.ibm.com/case-studies/centiment){: external}
+-   [www.ibm.com/case-studies/havas](https://www.ibm.com/case-studies/havas){: external}
+-   [www.ibm.com/case-studies/buzz-radar-cloud-marketing-performance-optimization](https://www.ibm.com/case-studies/buzz-radar-cloud-marketing-performance-optimization){: external}
+-   [www.ibm.com/case-studies/guardio-cloud-bullying-detection-application](https://www.ibm.com/case-studies/guardio-cloud-bullying-detection-application){: external}
+-   [www.ibm.com/case-studies/opentopic-inc](https://www.ibm.com/case-studies/opentopic-inc){: external}
 
 ## 12 December 2019
 {: #December2019}
@@ -65,17 +86,10 @@ The release notes document the *service version* and *interface version* for all
 
 You can now create {{site.data.keyword.personalityinsightsshort}} instances in the Seoul location. As with other locations, the {{site.data.keyword.cloud_notm}} Seoul location uses token-based Identity and Access Management (IAM) authentication.
 
-## 30 July 2019
-{: #July2019}
-
-**Service version** - `3.6.1`<br/> **Interface version** - `2017-10-13`
-
-- Overall, accuracy of [emotional range (neuroticism)](/docs/personality-insights?topic=personality-insights-emotionalRange) improved. For details about the accuracy of the service, see [Per-language average MAE and correlation](/docs/personality-insights?topic=personality-insights-science#precisePerLanguage). Because the emotional range dimension is part of the *Big Five* personality characteristics, the accuracy of that dimension is included in the value of the *Big Five dimensions* column.
-- For Arabic, the emotional range is now statistically significant. The limitation that existed previously was removed from the table in [Limitations for Arabic and Korean input](/docs/personality-insights?topic=personality-insights-numeric#limitations).
-
 ## Older releases
 {: #older}
 
+-   [30 July 2019](#July2019)
 -   [18 June 2019](#June2019)
 -   [9 January 2019](#January2019)
 -   [21 December 2018](#December2018)
@@ -105,6 +119,14 @@ You can now create {{site.data.keyword.personalityinsightsshort}} instances in t
 -   [18 March 2016](#March2016)
 -   [9 July 2015](#July2015)
 -   [23 February 2015](#February2015)
+
+### 30 July 2019
+{: #July2019}
+
+**Service version** - `3.6.1`<br/> **Interface version** - `2017-10-13`
+
+- Overall, accuracy of [emotional range (neuroticism)](/docs/personality-insights?topic=personality-insights-emotionalRange) improved. For details about the accuracy of the service, see [Per-language average MAE and correlation](/docs/personality-insights?topic=personality-insights-science#precisePerLanguage). Because the emotional range dimension is part of the *Big Five* personality characteristics, the accuracy of that dimension is included in the value of the *Big Five dimensions* column.
+- For Arabic, the emotional range is now statistically significant. The limitation that existed previously was removed from the table in [Limitations for Arabic and Korean input](/docs/personality-insights?topic=personality-insights-numeric#limitations).
 
 ### 18 June 2019
 {: #June2019}
