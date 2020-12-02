@@ -1,11 +1,10 @@
 {:navgroup: .navgroup}
 {:topicgroup: .topicgroup}
 
-{: .toc subcollection="personality-insights" audience="service" href="/docs/personality-insights?topic=personality-insights-gettingStarted" console-page="/developer/watson" product-page="https://www.ibm.com/cloud/watson-personality-insights" path="personality-insights"}
+{: .toc subcollection="personality-insights" audience="service" href="/docs/personality-insights?topic=personality-insights-about" path="personality-insights"}
 Personality Insights
 
     {: .navgroup id="learn"}
-    getting-started.md
     index.md
     developer-overview.md
 

@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2020
-lastupdated: "2020-11-02"
+lastupdated: "2020-12-02"
 
 subcollection: personality-insights
 
@@ -88,8 +88,6 @@ curl -X POST -u "apikey:{apikey}" \
 ```
 {: pre}
 
-For more examples of calling the service with different request and response formats, see the [Getting started tutorial](/docs/personality-insights?topic=personality-insights-gettingStarted).
-
 ## Specifying JSON input
 {: #json}
 
@@ -109,7 +107,7 @@ JSON input is well suited for content from Twitter or other social networks that
 ### Example JSON input
 {: jsonExample}
 
-Examples in the [Getting started tutorial](/docs/personality-insights?topic=personality-insights-gettingStarted) use the sample JSON file [profile.json](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json){: external}. The file includes a series of Twitter messages. The following example shows the first few tweets from the file.
+The sample JSON file [profile.json](https://watson-developer-cloud.github.io/doc-tutorial-downloads/personality-insights/profile.json){: external} includes a series of Twitter messages. The following example shows the first few tweets from the file.
 
 ```javascript
 {
