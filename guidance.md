@@ -1,10 +1,12 @@
 ---
 
 copyright:
-  years: 2015, 2020
-lastupdated: "2020-11-02"
+  years: 2015, 2021
+lastupdated: "2021-01-13"
 
 subcollection: personality-insights
+
+content-type: troubleshoot
 
 ---
 
