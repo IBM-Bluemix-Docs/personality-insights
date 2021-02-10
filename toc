@@ -38,7 +38,6 @@ Personality Insights
         values.md
 
     preferences.md
-    ha-dr.md
 
     {: topicgroup}
     Service background
@@ -51,6 +50,7 @@ Personality Insights
 
     {: .navgroup id="reference"}
     [API & SDK reference](https://cloud.ibm.com/apidocs/personality-insights)
+    ha-dr.md
     information-security.md
     /watson/watson-using-sdks
     [Watson GitHub repos](https://github.com/watson-developer-cloud/)
