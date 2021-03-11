@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-01-13"
+lastupdated: "2021-03-10"
 
 subcollection: personality-insights
 
@@ -29,7 +29,7 @@ content-type: troubleshoot
 # Usage guidance
 {: #guidance}
 
-{{site.data.keyword.IBM}} will begin sunsetting {{site.data.keyword.personalityinsightsfull}} on 1 December 2020. For a period of one year from this date, you will still be able to use {{site.data.keyword.personalityinsightsshort}}. However, as of 1 December 2021, the offering will no longer be available.<br/><br/>As an alternative, we encourage you to consider migrating to {{site.data.keyword.nlufull}}, a service on {{site.data.keyword.cloud}} that uses deep learning to extract data and insights from text such as keywords, categories, sentiment, emotion, and syntax to provide insights for your business or industry. For more information, see [About {{site.data.keyword.nlushort}}](https://cloud.ibm.com/docs/natural-language-understanding?topic=natural-language-understanding-about).
+{{site.data.keyword.personalityinsightsfull}} is discontinued. Existing instances are supported until 1 December 2021, but as of 1 December 2020, you cannot create new instances. Any instance that exists on 1 December 2021 will be deleted.<br/><br/>No direct replacement exists for {{site.data.keyword.personalityinsightsshort}}. However, you can consider using [{{site.data.keyword.nlufull}}](/docs/natural-language-understanding?topic=natural-language-understanding-about) on {{site.data.keyword.cloud}} as part of a replacement analytic workflow for your {{site.data.keyword.personalityinsightsshort}} use cases. You can use {{site.data.keyword.nlushort}} to extract data and insights from text, such as keywords, categories, sentiment, emotion, and syntax. For more information about the personality models in Personality Insights, see [The science behind the service](/docs/personality-insights?topic=personality-insights-science).
 {: deprecated}
 
 Users are applying the {{site.data.keyword.personalityinsightsshort}} service to an increasing number of use cases. They apply the service to offer personalized product recommendations to customers via in-store kiosks. They explore and analyze differences in the personalities of US presidents as inferred from their State of the Union Addresses. And they integrate the service with another product in the {{site.data.keyword.IBM_notm}} {{site.data.keyword.watson}} portfolio, {{site.data.keyword.watson}} Explorer, to demonstrate how an investment advisor can offer suitable options based on investors' personality portraits. (For more information, see [Use cases](/docs/personality-insights?topic=personality-insights-usecases).)
