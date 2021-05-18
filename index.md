@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-03-10"
+lastupdated: "2021-05-18"
 
 subcollection: personality-insights
 
@@ -88,6 +88,4 @@ US Health Insurance Portability and Accountability Act (HIPAA) support does not 
 ## Learn more about the service
 {: #learn-index}
 
--   A [quick demo](https://personality-insights-demo.ng.bluemix.net/){: external} of the {{site.data.keyword.personalityinsightsshort}} service analyzes input text to develop a personality portrait that includes consumption preferences for the author.
 -   [The service in action](/docs/personality-insights?topic=personality-insights-applied) and [The science behind the service](/docs/personality-insights?topic=personality-insights-science) provide information about the research that underlies the service.
--   The {{site.data.keyword.personalityinsightsshort}} service in the [{{site.data.keyword.cloud_notm}} Catalog](https://{DomainName}/catalog/services/personality-insights/){: external} describes the pricing plans that are available for the service.
