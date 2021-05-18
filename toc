@@ -9,10 +9,6 @@ Personality Insights
     developer-overview.md
 
     {: .topicgroup}
-    Demos
-        [Quick demo](https://personality-insights-demo.ng.bluemix.net/)
-
-    {: .topicgroup}
     Additional resources
         [Blog](https://developer.ibm.com/watson/blog/)
         [Webinars](https://www.ibm.com/watson/webinars/)

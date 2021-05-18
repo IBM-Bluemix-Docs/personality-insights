@@ -2,7 +2,7 @@
 
 copyright:
   years: 2015, 2021
-lastupdated: "2021-03-10"
+lastupdated: "2021-05-18"
 
 subcollection: personality-insights
 
@@ -32,7 +32,7 @@ For more information about the research behind the {{site.data.keyword.personali
 {: shortdesc}
 
 1.  {: #adorno1950}Adorno, Theodor W., Else Frenkel-Brunswik, Daniel J. Levinson, and Nevitt N. Sanford. *The Authoritarian Personality.* Harper &amp; Row (1950).
-1.  {: #arnoux2017}Arnoux, Pierre-Hadrien, Anbang Xu, Neil Boyette, Jalal Mahmud, Rama Akkiraju, and Vibha Sinha. [*25 Tweets to Know you: A New Model to Predict Personality with Social Media.*](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15681){: external} AAAI Publications, Eleventh International AAAI Conference on Web and Social Media (2017): pp. 472-475.
+1.  {: #arnoux2017}Arnoux, Pierre-Hadrien, Anbang Xu, Neil Boyette, Jalal Mahmud, Rama Akkiraju, and Vibha Sinha. [*25 Tweets to Know you: A New Model to Predict Personality with Social Media.*](https://arxiv.org/ftp/arxiv/papers/1704/1704.05513.pdf){: external} AAAI Publications, Eleventh International AAAI Conference on Web and Social Media (2017): pp. 472-475.
 1.  {: #barrick1991}Barrick, Murray R., and Michael K. Mount. [*The Big Five Personality Dimensions and Job Performance: A Meta-Analysis.*](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-6570.1991.tb00688.x){: external} Personnel Psychology, Vol. 44(1) (March 1991): pp. 1-26.
 1.  {: #botwin1997}Botwin, Michael D., David M. Buss, and Todd K. Shackelford. [*Personality and Mate Preferences: Five Factors in Mate Selection and Marital Satisfaction.*](https://www.ncbi.nlm.nih.gov/pubmed/9143146){: external} Journal of Personality, Vol. 65(1) (March 1997): pp. 107-136.
 1.  {: #chamorro2003}Chamorro-Premuzic, Tomas, and Adrian Furnham. [*Personality predicts academic performance: Evidence from two longitudinal university samples.*](https://www.sciencedirect.com/science/article/abs/pii/S0092656602005780){: external} Journal of Research in Personality, Vol. 37(4) (August 2003): pp. 319-338.
